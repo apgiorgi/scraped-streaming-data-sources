@@ -1,7 +1,8 @@
 name: NOAA NDBC Latest Observations
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    # https://github.blog/changelog/2019-11-01-github-actions-scheduled-jobs-maximum-frequency-is-changing/
+    - cron: "* * * * *"
   workflow_dispatch: {}
   push:
     paths:
