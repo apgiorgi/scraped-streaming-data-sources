@@ -4,6 +4,6 @@ Each data feed has it's own directory and GitHub Actions workflow.
 
 - [NOAA National Data Buoy Center - Latest Observations](http://www.ndbc.noaa.gov/data/latest_obs/latest_obs.txt)
 
-  [Scraped data](./noaa-ndbc/)
+  [💾 Scraped data](./noaa-ndbc/)
 
-  [Workflow]()
+  [🎛 Workflow](.github/workflows/noaa-ndbc.yml)
