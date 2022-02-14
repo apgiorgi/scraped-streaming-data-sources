@@ -1,12 +1,12 @@
-name: data
+name: NOAA NDBC Latest Observations
 on:
   schedule:
     - cron: "*/5 * * * *"
   workflow_dispatch: {}
   push:
     paths:
-      - .github/workflows/flat.yml
-      - ./NOAA-NDBC/postproc.ts
+      - .github/workflows/flat-noaa-ndbc.yml
+      - ./NOAA-NDBC/postprocess.ts
 jobs:
   scheduled:
     runs-on: ubuntu-latest
