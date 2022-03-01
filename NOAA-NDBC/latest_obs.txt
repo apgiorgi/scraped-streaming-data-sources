@@ -185,7 +185,7 @@
 46244  40.896 -124.357 2022 03 01 09 56  MM    MM    MM  3.2  15   MM  MM     MM    MM    MM  10.0    MM   MM     MM
 46248  46.133 -124.644 2022 03 01 10 26  MM    MM    MM  4.1  10  8.4 224     MM    MM    MM   8.9    MM   MM     MM
 46251  33.769 -119.565 2022 03 01 09 56  MM    MM    MM  1.5  17   MM  MM     MM    MM    MM  13.5    MM   MM     MM
-46253  33.576 -118.181 2022 03 01 09 56  MM    MM    MM  0.9  15  8.5 251     MM    MM    MM  14.6    MM   MM     MM
+46253  33.576 -118.181 2022 03 01 09 56  MM    MM    MM  0.9  15   MM  MM     MM    MM    MM  14.6    MM   MM     MM
 46254  32.868 -117.267 2022 03 01 09 56  MM    MM    MM  0.6  17   MM  MM     MM    MM    MM  14.9    MM   MM     MM
 46256  33.700 -118.201 2022 03 01 09 56  MM    MM    MM  1.0  17   MM  MM     MM    MM    MM  13.5    MM   MM     MM
 46258  32.752 -117.501 2022 03 01 10 26  MM    MM    MM  1.2  17 10.4 274     MM    MM    MM  15.3    MM   MM     MM
@@ -351,7 +351,7 @@ CRYV2  36.888  -76.338 2022 03 01 10 00 130   1.5   2.6   MM  MM   MM  MM 1022.5
 CSPA2  58.199 -136.640 2022 03 01 10 10  60   5.7   7.2   MM  MM   MM  MM 1006.4    MM   3.7    MM   1.8   MM     MM
 CWAF1  25.297  -81.013 2022 03 01 08 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  25.5    MM   MM   0.30
 CWBF1  27.978  -82.832 2022 03 01 10 00  20   3.1   4.1   MM  MM   MM  MM 1017.6  -0.0  14.5  21.7    MM   MM     MM
-CWCI   47.334  -85.833 2022 03 01 09 00 220   4.1    MM   MM  MM   MM  MM 1010.4    MM  -2.7    MM  -3.5   MM     MM
+CWCI   47.334  -85.833 2022 03 01 10 00 240   3.6    MM   MM  MM   MM  MM 1010.1    MM  -2.3    MM  -4.1   MM     MM
 DBLN6  42.494  -79.354 2022 03 01 10 00 180   3.6   5.1   MM  MM   MM  MM 1012.9  -2.6   4.2    MM    MM   MM     MM
 DELD1  39.582  -75.589 2022 03 01 10 00 160   2.6   3.1   MM  MM   MM  MM 1024.6  -0.9   0.9   5.6    MM   MM     MM
 DESW1  47.675 -124.485 2022 03 01 10 00 160   8.8   9.3   MM  MM   MM  MM 1014.4  +0.7   8.6    MM    MM   MM     MM
@@ -519,7 +519,7 @@ MHRN6  40.641  -74.162 2022 03 01 10 00 150   1.5   1.5   MM  MM   MM  MM     MM
 MISM1  43.784  -68.855 2022 03 01 10 00  10   3.6   4.1   MM  MM   MM  MM 1027.4  +0.4  -8.3    MM -18.7   MM     MM
 MISP4  18.090  -67.939 2022 03 01 10 00  MM    MM    MM   MM  MM   MM  MM 1015.8  +0.4  23.4  26.2    MM   MM     MM
 MKGM4  43.227  -86.339 2022 03 01 10 30 290   7.2   7.7   MM  MM   MM  MM 1011.9    MM   2.5    MM   0.4   MM     MM
-MLSC1  36.802 -121.791 2022 03 01 10 30  MM   0.0    MM   MM  MM   MM  MM     MM    MM   8.2    MM   6.6   MM     MM
+MLSC1  36.802 -121.791 2022 03 01 10 49  MM   0.0    MM   MM  MM   MM  MM     MM    MM   7.7    MM   6.1   MM     MM
 MLWW3  43.005  -87.884 2022 03 01 10 20 310   1.0   1.5   MM  MM   MM  MM     MM    MM   4.7    MM    MM   MM     MM
 MNBF1  25.239  -80.422 2022 03 01 09 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  25.1    MM   MM  -0.67
 MNMM4  45.096  -87.590 2022 03 01 10 00 310   3.1   3.6   MM  MM   MM  MM 1009.3  -0.0  -5.9   1.8  -6.6   MM     MM
@@ -591,7 +591,7 @@ PCLF1  30.404  -87.211 2022 03 01 10 00 360   4.1   5.7   MM  MM   MM  MM 1021.1
 PCNT2  28.446  -96.396 2022 03 01 10 00 270   1.0   1.5   MM  MM   MM  MM 1023.0  -0.7   7.7  13.9    MM   MM     MM
 PCOC1  38.056 -122.039 2022 03 01 10 00 220   3.6   4.6   MM  MM   MM  MM 1023.6  -1.0   9.4  12.0    MM   MM     MM
 PEGF1  26.086  -80.116 2022 03 01 10 00 270   3.6   5.1   MM  MM   MM  MM 1016.0  +0.4  19.5    MM    MM   MM     MM
-PFDC1  33.735 -118.241 2022 03 01 09 48 150   2.6   3.1   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
+PFDC1  33.735 -118.241 2022 03 01 09 54 150   3.1   3.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 PFXC1  33.747 -118.215 2022 03 01 10 00 110   1.5   2.1   MM  MM   MM  MM     MM    MM  14.4    MM    MM   MM     MM
 PGBP7  13.428  144.796 2022 03 01 10 00  50   4.6   7.2   MM  MM   MM  MM 1013.3  +1.3    MM    MM    MM   MM     MM
 PHBP1  39.933  -75.142 2022 03 01 10 00  MM    MM    MM   MM  MM   MM  MM 1024.9  -0.7   0.2   4.5    MM   MM     MM
@@ -631,7 +631,7 @@ PTIM4  46.485  -84.631 2022 03 01 10 00 100   4.1   4.6   MM  MM   MM  MM 1008.9
 PTIT2  26.061  -97.215 2022 03 01 10 00  10   2.1   2.6   MM  MM   MM  MM 1021.6  -1.2  10.1  13.2    MM   MM     MM
 PTLA2  58.346 -134.752 2022 03 01 10 32  MM   0.0   1.0   MM  MM   MM  MM 1005.8    MM   4.0    MM   3.0   MM     MM
 PTOA1  30.671  -88.031 2022 03 01 10 00  MM    MM    MM   MM  MM   MM  MM     MM    MM  10.0    MM  -0.5  5.9     MM
-PTRP4  18.367  -67.251 2022 03 01 10 30  MM   0.0   1.0   MM  MM   MM  MM     MM    MM  21.9    MM    MM   MM     MM
+PTRP4  18.367  -67.251 2022 03 01 10 35 130   0.5   1.0   MM  MM   MM  MM     MM    MM  22.0    MM    MM   MM     MM
 PTWW1  48.111 -122.760 2022 03 01 10 00  MM   0.0   0.5   MM  MM   MM  MM 1015.6  +1.2   7.4   7.8    MM   MM     MM
 PVDR1  41.786  -71.383 2022 03 01 10 00 110   3.1   3.6   MM  MM   MM  MM 1027.5  -0.0  -4.6    MM    MM  5.9     MM
 PWAW3  43.388  -87.867 2022 03 01 09 40 260   1.0   1.5   MM  MM   MM  MM 1012.2    MM   3.2    MM    MM   MM     MM
@@ -677,7 +677,7 @@ SHBL1  29.868  -89.673 2022 03 01 10 00  10   6.2   7.2   MM  MM   MM  MM 1022.1
 SHPF1  30.058  -84.291 2022 03 01 08 54 350   2.6   3.1   MM  MM   MM  MM 1018.9    MM  11.5    MM    MM   MM   1.89
 SHXA2  57.055 -135.349 2022 03 01 10 33  MM   0.0   1.0   MM  MM   MM  MM 1004.5    MM   4.5    MM   4.1   MM     MM
 SISA2  58.177 -135.259 2022 03 01 10 22 220   1.0   1.5   MM  MM   MM  MM     MM    MM   4.5    MM    MM   MM     MM
-SISW1  48.321 -122.831 2022 03 01 10 20 110   4.6   4.6   MM  MM   MM  MM 1014.4    MM   7.9    MM    MM   MM     MM
+SISW1  48.321 -122.831 2022 03 01 10 30 120   4.6   5.1   MM  MM   MM  MM 1014.1    MM   7.6    MM    MM   MM     MM
 SJNP4  18.459  -66.116 2022 03 01 10 00 160   2.1   3.1   MM  MM   MM  MM 1015.5  +0.4  24.0  26.9    MM   MM     MM
 SJOM4  42.098  -86.494 2022 03 01 10 00 200   5.1   6.2   MM  MM   MM  MM 1012.5    MM   3.5    MM    MM   MM     MM
 SJSN4  39.305  -75.377 2022 03 01 10 00 150   7.2   7.7   MM  MM   MM  MM 1025.1  -1.1   3.9   4.5    MM   MM     MM
