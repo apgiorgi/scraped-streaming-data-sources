@@ -811,7 +811,6 @@ TKPN6    42.014  -73.939 2023 09 29 11 30 310   0.5   3.6   MM  MM   MM  MM 1024
 TLBO3    45.555 -123.919 2023 09 29 11 30  MM    MM    MM   MM  MM   MM  MM 1012.7    MM    MM  13.8    MM   MM     MM
 TLVT2    27.819  -97.454 2023 09 29 11 18  MM    MM    MM   MM  MM   MM  MM 1011.8    MM  27.5    MM  25.2  5.9     MM
 TOKW1    46.707 -123.967 2023 09 29 11 30  70   5.1   6.2   MM  MM   MM  MM 1014.8    MM  11.2  15.2    MM   MM     MM
-TPAF1    27.933  -82.433 2023 09 29 09 06  10   3.6   5.7   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 TPEF1    25.410  -80.964 2023 09 29 11 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.1    MM   MM   0.76
 TPLM2    38.899  -76.436 2023 09 29 11 00 340   7.7   8.8   MM  MM   MM  MM 1020.2  +0.4  16.6    MM    MM   MM     MM
 TRDF1    28.416  -80.593 2023 09 29 11 18 320   2.1   2.1   MM  MM   MM  MM 1011.8    MM  24.9  30.9    MM   MM     MM
