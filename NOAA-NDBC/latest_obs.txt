@@ -536,7 +536,7 @@ KECA2    55.331 -131.625 2023 10 06 17 30 130   5.7   6.7   MM  MM   MM  MM 1021
 KEXA2    55.352 -131.684 2023 10 06 17 52 130   3.6   6.7   MM  MM   MM  MM     MM    MM  12.5    MM    MM   MM     MM
 KGBK     27.204  -92.203 2023 10 06 18 00  MM   2.6   6.7   MM  MM   MM  MM     MM    MM    28    MM    24  8.7     MM
 KGCA2    55.062 -162.327 2023 10 06 17 30 190   8.8  12.4   MM  MM   MM  MM  992.8    MM   7.8   9.2    MM   MM     MM
-KGNA     47.745  -90.346 2023 10 06 16 56 310   3.1    MM   MM  MM   MM  MM 1009.3    MM   9.4    MM   3.9   MM     MM
+KGNA     47.745  -90.346 2023 10 06 17 56  MM   2.1    MM   MM  MM   MM  MM 1009.9    MM  10.0    MM   3.9   MM     MM
 KGRY     27.625  -90.441 2023 10 06 17 50  50   3.6    MM   MM  MM   MM  MM     MM    MM    25    MM    23  8.7     MM
 KGUL     27.304  -93.538 2023 10 06 17 55  20   3.1    MM   MM  MM   MM  MM     MM    MM    28    MM    21  4.3     MM
 KGXA2    57.777 -152.425 2023 10 06 17 44 330   1.0   2.1   MM  MM   MM  MM     MM    MM   9.1    MM   6.3   MM     MM
@@ -547,7 +547,7 @@ KMXA2    57.782 -152.439 2023 10 06 17 44 200   1.0   2.6   MM  MM   MM  MM     
 KNSW3    42.589  -87.809 2023 10 06 17 00 240   3.6   5.7   MM  MM   MM  MM 1013.5  -0.4  13.8    MM    MM   MM     MM
 KNXA2    60.552 -151.274 2023 10 06 17 44  30   2.6   3.6   MM  MM   MM  MM     MM    MM   6.0    MM   5.4   MM     MM
 KOZA2    66.901 -162.589 2023 10 06 17 44  30   3.6   6.7   MM  MM   MM  MM 1011.0    MM  -3.5    MM  -6.4   MM     MM
-KP53     46.417  -86.650 2023 10 06 16 56 270   3.6   8.8   MM  MM   MM  MM 1005.9    MM  13.3    MM   5.6   MM     MM
+KP53     46.417  -86.650 2023 10 06 17 56 290   5.7   9.3   MM  MM   MM  MM 1005.9    MM  12.8    MM   6.1   MM     MM
 KP58     44.017  -82.800 2023 10 06 17 55 250   4.1  10.3   MM  MM   MM  MM 1010.0    MM  16.7    MM   6.7   MM     MM
 KP59     47.467  -87.883 2023 10 06 17 51 360   9.8  13.9   MM  MM   MM  MM 1005.7    MM   8.9    MM   6.7   MM     MM
 KPTN6    40.811  -73.765 2023 10 06 17 30 330   2.6   3.1   MM  MM   MM  MM 1016.2    MM  19.6  19.6    MM   MM     MM
