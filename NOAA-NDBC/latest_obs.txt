@@ -870,4 +870,4 @@ WYCM6    30.326  -89.326 2023 11 04 11 18  20   3.6   4.1   MM  MM   MM  MM 1024
 YATA2    59.548 -139.733 2023 11 04 11 18  MM    MM    MM   MM  MM   MM  MM  999.9    MM    MM   9.4    MM   MM     MM
 YGNN6    43.262  -79.064 2023 11 04 11 00 230   2.1   3.1   MM  MM   MM  MM 1020.7  -0.0   9.3    MM    MM   MM     MM
 YKTV2    37.227  -76.479 2023 11 04 11 18 220   0.5   1.0   MM  MM   MM  MM 1023.6    MM   8.0  16.0    MM   MM     MM
-YRSV2    37.414  -76.712 2023 11 04 10 45 240   1.0    MM   MM  MM   MM  MM 1025.0    MM   0.9    MM   0.8   MM     MM
+YRSV2    37.414  -76.712 2023 11 04 11 30 230   1.0    MM   MM  MM   MM  MM 1026.0    MM   1.0    MM   0.9   MM     MM
