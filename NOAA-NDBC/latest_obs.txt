@@ -390,7 +390,7 @@ DESW1    47.675 -124.485 2023 11 24 17 00  70   2.6   2.6   MM  MM   MM  MM 1029
 DHXA2    70.222 -148.419 2023 11 24 17 44  90   4.1   5.1   MM  MM   MM  MM 1016.6    MM -12.6    MM -13.3   MM     MM
 DILA1    30.250  -88.075 2023 11 24 17 18  40   3.6   4.6   MM  MM   MM  MM 1022.0    MM  13.7    MM    MM   MM     MM
 DISW3    47.079  -90.728 2023 11 24 17 00 290   6.2   8.8   MM  MM   MM  MM 1035.0  +0.0  -4.7    MM -11.4   MM     MM
-DKKF1    25.180  -80.490 2023 11 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  25.3    MM   MM   0.37
+DKKF1    25.180  -80.490 2023 11 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  25.5    MM   MM   0.38
 DMSF1    30.387  -81.559 2023 11 24 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  19.8    MM   MM     MM
 DOMV2    36.962  -76.424 2023 11 24 17 18  40   2.6   5.1   MM  MM   MM  MM 1021.2    MM  11.7    MM    MM   MM     MM
 DPHA1    30.251  -88.078 2023 11 24 15 30  MM    MM    MM   MM  MM   MM  MM 1007.2    MM  12.9  17.4    MM   MM     MM
@@ -433,8 +433,8 @@ FSKM2    39.219  -76.528 2023 11 24 17 18 320   5.1   6.2   MM  MM   MM  MM     
 FSNM2    39.219  -76.525 2023 11 24 17 12 300   6.2   7.2   MM  MM   MM  MM 1020.9    MM    MM    MM    MM   MM     MM
 FTGM4    43.007  -82.422 2023 11 24 17 18 320   3.1   5.7   MM  MM   MM  MM 1027.3    MM  -0.6    MM -10.2   MM     MM
 FTPC1    37.806 -122.466 2023 11 24 17 18  60   4.6   5.7   MM  MM   MM  MM 1016.2    MM  11.9  15.3    MM   MM     MM
-GBIF1    25.378  -81.029 2023 11 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  24.9    MM   MM   0.61
-GBTF1    25.167  -80.801 2023 11 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.2    MM   MM   0.06
+GBIF1    25.378  -81.029 2023 11 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  24.9    MM   MM   0.73
+GBTF1    25.167  -80.801 2023 11 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.3    MM   MM   0.12
 GBWW3    44.538  -88.003 2023 11 24 17 18 300   4.1   5.1   MM  MM   MM  MM 1032.3    MM  -3.5    MM    MM   MM     MM
 GBXA2    63.777 -171.715 2023 11 24 17 43  30   8.8  10.8   MM  MM   MM  MM     MM    MM  -1.7    MM  -3.7   MM     MM
 GCTF1    27.774  -82.517 2023 11 24 17 18  MM    MM    MM   MM  MM   MM  MM 1019.5    MM  16.1    MM   9.6  5.9     MM
