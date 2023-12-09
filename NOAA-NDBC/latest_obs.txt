@@ -1,6 +1,7 @@
 #STN       LAT      LON  YYYY MM DD hh mm WDIR WSPD   GST WVHT  DPD APD MWD   PRES  PTDY  ATMP  WTMP  DEWP  VIS   TIDE
 #text      deg      deg   yr mo day hr mn degT  m/s   m/s   m   sec sec degT   hPa   hPa  degC  degC  degC  nmi     ft
 15008   -20.000  -10.000 2023 12 09 16 00 108   6.4    MM   MM  MM   MM  MM 1016.0    MM  23.5  23.8    MM   MM     MM
+15009     0.000   -3.051 2023 12 09 18 00 177   3.5    MM   MM  MM   MM  MM     MM    MM  28.4  29.2    MM   MM     MM
 1801589  37.36  -122.86  2023 12 09 17 30  30   5.6   6.1  2.4  12   MM  MM 1027.7    MM  13.1  14.3   2.5   MM     MM
 22101    37.24   126.02  2023 12 09 18 00  30   8.0    MM  0.5   4   MM  MM     MM    MM  10.3  11.0    MM   MM     MM
 22102    34.79   125.78  2023 12 09 18 00  30   5.0    MM  0.5   6   MM  MM     MM    MM  10.6  11.5    MM   MM     MM
@@ -10,11 +11,12 @@
 22106    36.35   129.78  2023 12 09 18 00  10   6.0    MM  0.5   4   MM  MM     MM    MM  14.4  14.5    MM   MM     MM
 22107    33.08   126.03  2023 12 09 18 00 110   5.0    MM  0.5   5   MM  MM     MM    MM  13.9  19.1    MM   MM     MM
 22108    36.25   125.75  2023 12 09 18 00  30   5.0    MM  1.0   5   MM  MM     MM    MM  12.0  12.9    MM   MM     MM
+31002     4.000  -38.000 2023 12 09 18 00  MM    MM    MM   MM  MM   MM  MM     MM    MM  29.4    MM    MM   MM     MM
 32ST0   -22.000  -85.000 2023 12 09 17 30 130   8.0    MM   MM  MM   MM  MM 1019.4    MM  18.3  20.1  15.0   MM     MM
 41001    34.703  -72.242 2023 12 09 18 10 200   6.0   7.0   MM  MM   MM  MM 1024.8    MM  20.9  22.8  15.6   MM     MM
 41002    31.759  -74.936 2023 12 09 18 10 160   4.0   6.0   MM  MM   MM  MM 1023.7    MM  21.8  23.1  16.2   MM     MM
 41004    32.502  -79.099 2023 12 09 18 10 170   4.0   6.0   MM  MM   MM  MM 1023.4    MM  19.8  23.7  18.8   MM     MM
-41008    31.400  -80.866 2023 12 09 18 10  80   2.0   2.0   MM  MM   MM  MM 1021.9    MM  20.8  18.0  19.8   MM     MM
+41008    31.400  -80.866 2023 12 09 18 10  80   2.0   2.0   MM  MM  4.8 138 1021.9    MM  20.8  18.0  19.8   MM     MM
 41009    28.508  -80.185 2023 12 09 18 10 170   9.0  11.0   MM  MM   MM  MM 1021.5    MM  24.8  25.8  19.5   MM     MM
 41013    33.441  -77.764 2023 12 09 18 10 270   3.0   4.0   MM  MM   MM  MM 1023.7    MM  21.1  22.8  17.2   MM     MM
 41024    33.837  -78.477 2023 12 09 17 08 100   2.0   3.0   MM  MM   MM  MM 1023.8    MM  15.6  14.3  15.2   MM     MM
@@ -46,7 +48,7 @@
 41121    18.490  -66.701 2023 12 09 17 56  MM    MM    MM  2.4  13  7.6  10     MM    MM    MM  28.5    MM   MM     MM
 41122    26.001  -80.096 2023 12 09 18 00  MM    MM    MM  1.3   6  4.4  95     MM    MM    MM  25.4    MM   MM     MM
 41139    20.000  -38.000 2023 12 09 17 00 100   9.4  11.3   MM  MM   MM  MM 1015.2    MM  26.9    MM    MM   MM     MM
-41159    34.213  -76.949 2023 12 09 17 56  MM    MM    MM  0.7  11  6.4  88     MM    MM    MM  21.8    MM   MM     MM
+41159    34.213  -76.949 2023 12 09 17 56  MM    MM    MM  0.7  11   MM  MM     MM    MM    MM  21.8    MM   MM     MM
 42001    25.926  -89.662 2023 12 09 18 10 150   6.0   7.0   MM  MM   MM  MM 1015.4    MM  26.3  26.3  23.9   MM     MM
 42002    26.055  -93.646 2023 12 09 18 10 170   7.0   8.0   MM  MM   MM  MM 1014.3    MM  25.6  25.4    MM   MM     MM
 42012    30.060  -87.548 2023 12 09 18 10 170   3.0   4.0   MM  MM   MM  MM 1018.5    MM  22.5  21.4  21.3   MM     MM
@@ -55,7 +57,7 @@
 42022    27.505  -83.741 2023 12 09 16 35 140   7.0   9.0   MM  MM   MM  MM 1022.1    MM  23.0  24.0  20.5   MM     MM
 42023    26.010  -83.086 2023 12 09 16 35 130   6.0   7.0   MM  MM   MM  MM 1022.5    MM  24.6  24.5  22.0   MM     MM
 42026    25.171  -83.475 2023 12 09 16 35 110   5.0   6.0   MM  MM   MM  MM 1020.5    MM  25.3  25.0  22.4   MM     MM
-42036    28.501  -84.508 2023 12 09 18 10 150   7.0   8.0   MM  MM   MM  MM 1020.1    MM  23.5    MM  21.8   MM     MM
+42036    28.501  -84.508 2023 12 09 18 20 150   7.0   8.0  1.3   6  4.5 155 1019.9    MM  23.5    MM  21.9   MM     MM
 42040    29.207  -88.237 2023 12 09 18 10 150   4.0   5.0   MM  MM   MM  MM 1018.6    MM  23.3  22.6  21.7   MM     MM
 42055    22.140  -94.112 2023 12 09 18 10  MM    MM    MM   MM  MM   MM  MM 1013.8    MM    MM  26.5    MM   MM     MM
 42056    19.820  -84.945 2023 12 09 18 10  90   8.0  10.0   MM  MM   MM  MM 1014.2    MM  28.8  28.8  25.9   MM     MM
@@ -75,7 +77,7 @@
 44009    38.460  -74.692 2023 12 09 18 10 190   6.0   7.0   MM  MM   MM  MM 1021.4    MM  13.0  11.7  11.2   MM     MM
 44011    41.093  -66.562 2023 12 09 18 10 150   4.0   5.0   MM  MM   MM  MM 1027.7    MM   7.1   7.7    MM   MM     MM
 44013    42.346  -70.651 2023 12 09 18 10 160   7.0   9.0   MM  MM   MM  MM 1023.9    MM   9.0   9.4   6.4   MM     MM
-44014    36.603  -74.837 2023 12 09 18 10 190   4.0   5.0   MM  MM   MM  MM 1023.9    MM  14.4  12.8  12.6   MM     MM
+44014    36.603  -74.837 2023 12 09 18 10 190   4.0   5.0   MM  MM  5.7  80 1023.9    MM  14.4  12.8  12.6   MM     MM
 44018    42.203  -70.154 2023 12 09 18 10 170   7.0   9.0   MM  MM   MM  MM 1024.4    MM   8.9   9.2   5.5   MM     MM
 44020    41.497  -70.283 2023 12 09 18 10 120   4.0   5.0   MM  MM   MM  MM 1023.9    MM   8.5   7.1   6.9   MM     MM
 44025    40.251  -73.164 2023 12 09 18 10  MM    MM    MM   MM  MM   MM  MM 1020.5    MM    MM  11.2    MM   MM     MM
@@ -106,7 +108,7 @@
 44089    37.754  -75.325 2023 12 09 17 56  MM    MM    MM  0.9  12  4.9 110     MM    MM    MM  11.1    MM   MM     MM
 44090    41.840  -70.329 2023 12 09 18 00  MM    MM    MM  0.4   3  2.4 144     MM    MM   8.9   8.8    MM   MM     MM
 44091    39.768  -73.770 2023 12 09 17 56  MM    MM    MM  0.7  11  4.4  98     MM    MM    MM  10.9    MM   MM     MM
-44095    35.750  -75.330 2023 12 09 17 56  MM    MM    MM  0.7  13  6.1  71     MM    MM    MM  12.7    MM   MM     MM
+44095    35.750  -75.330 2023 12 09 17 56  MM    MM    MM  0.7  13   MM  MM     MM    MM    MM  12.7    MM   MM     MM
 44097    40.967  -71.124 2023 12 09 17 56  MM    MM    MM  1.3   5  4.4 148     MM    MM    MM  11.4    MM   MM     MM
 44098    42.800  -70.171 2023 12 09 17 56  MM    MM    MM  1.2   5  4.2 173     MM    MM    MM   9.2    MM   MM     MM
 44099    36.915  -75.722 2023 12 09 17 56  MM    MM    MM  0.6  12  4.6  93     MM    MM    MM  11.3    MM   MM     MM
@@ -117,7 +119,7 @@
 45002    45.344  -86.411 2023 12 09 18 10 270  11.0  13.0   MM  MM   MM  MM 1000.2    MM   5.5   6.5   5.4   MM     MM
 45012    43.621  -77.401 2023 12 09 18 10 140   7.0   9.0   MM  MM   MM  MM 1013.3    MM   9.0   7.4   5.4   MM     MM
 45161    43.185  -86.352 2023 12 09 18 10  MM    MM    MM  1.4   5   MM 232     MM    MM    MM   7.6    MM   MM     MM
-45212    45.351  -82.840 2023 12 09 17 55  MM    MM    MM  1.5   5   MM 168     MM    MM    MM   6.1    MM   MM     MM
+45212    45.351  -82.840 2023 12 09 17 55  MM    MM    MM  1.5   5   MM  MM     MM    MM    MM   6.1    MM   MM     MM
 45213    47.585  -86.585 2023 12 09 17 44  MM    MM    MM  0.4   3   MM 296     MM    MM    MM   3.7    MM   MM     MM
 45214    42.674  -87.026 2023 12 09 17 25  MM    MM    MM  1.4   5   MM 215     MM    MM    MM   7.9    MM   MM     MM
 46001    56.300 -148.018 2023 12 09 18 10 210   8.0  10.0   MM  MM   MM  MM 1003.7    MM   3.2   6.6  -1.6   MM     MM
@@ -135,7 +137,7 @@
 46041    47.352 -124.739 2023 12 09 18 10 130  16.0  21.0   MM  MM   MM  MM 1019.6    MM   6.1  11.3   5.7   MM     MM
 46047    32.388 -119.525 2023 12 09 18 10  40   3.0   5.0   MM  MM   MM  MM 1022.4    MM  15.9  15.7  14.6   MM     MM
 46050    44.669 -124.546 2023 12 09 18 10 160  13.0  15.0   MM  MM   MM  MM 1024.1    MM  10.1  12.0    MM   MM     MM
-46053    34.241 -119.839 2023 12 09 18 10  90   2.0   2.0   MM  MM   MM  MM 1023.1    MM  15.7  15.6  13.2   MM     MM
+46053    34.241 -119.839 2023 12 09 18 10  90   2.0   2.0   MM  MM  6.8 278 1023.1    MM  15.7  15.6  13.2   MM     MM
 46054    34.274 -120.468 2023 12 09 18 10  80   2.0   5.0   MM  MM   MM  MM 1023.7    MM  16.0  15.3  11.8   MM     MM
 46059    38.069 -129.976 2023 12 09 18 10 210   8.0   9.0   MM  MM   MM  MM 1028.1    MM  15.7  16.0  11.5   MM     MM
 46060    60.571 -146.798 2023 12 09 17 50 110  10.0  12.0  0.7   4  3.5  75 1002.5  -2.0  -0.3   6.4    MM   MM     MM
@@ -169,10 +171,10 @@
 46147    51.830 -131.220 2023 12 09 18 00  MM    MM    MM  8.8  12   MM  MM  996.1    MM   9.8   9.4    MM   MM     MM
 46181    53.830 -128.830 2023 12 09 18 00  20   7.0  10.0  0.2   2   MM  MM 1005.4    MM   1.4   5.0    MM   MM     MM
 46183    53.620 -131.100 2023 12 09 17 00 120  11.0  15.0   MM  MM   MM  MM  998.5  -3.2   5.1   8.5    MM   MM     MM
-46184    53.920 -138.850 2023 12 09 17 00  MM    MM    MM  5.1  12   MM  MM  993.6  +2.5   6.7   8.1    MM   MM     MM
+46184    53.920 -138.850 2023 12 09 18 00  MM    MM    MM  4.8  13   MM  MM  995.3  +3.9   6.7   8.1    MM   MM     MM
 46185    52.420 -129.790 2023 12 09 18 00 140  19.0  25.0 10.8  13   MM  MM  998.9  -2.0   7.6  10.0    MM   MM     MM
 46204    51.380 -128.770 2023 12 09 18 00 100  21.0  27.0  7.3  10   MM  MM 1002.3  -0.6   6.7  10.2    MM   MM     MM
-46205    54.180 -134.320 2023 12 09 17 00 140  16.0  20.0  7.8  13   MM  MM  988.8  -2.8   8.5   8.6    MM   MM     MM
+46205    54.180 -134.320 2023 12 09 18 00 160  13.0  17.0  7.4  13   MM  MM  989.4  -0.3   8.9   8.6    MM   MM     MM
 46206    48.840 -126.000 2023 12 09 18 00 130  19.0  24.0  4.8   9   MM  MM 1014.9  -1.8   6.4  10.6    MM   MM     MM
 46208    52.520 -132.690 2023 12 09 18 00  MM    MM    MM   MM  MM   MM  MM  993.6  +1.5   9.5   9.4    MM   MM     MM
 46211    46.857 -124.244 2023 12 09 17 56  MM    MM    MM  1.8  12  5.2 275     MM    MM    MM  10.2    MM   MM     MM
@@ -198,7 +200,7 @@
 46254    32.868 -117.267 2023 12 09 17 56  MM    MM    MM  1.0   9  7.6 289     MM    MM    MM  16.9    MM   MM     MM
 46256    33.700 -118.201 2023 12 09 17 56  MM    MM    MM  0.6  13  8.9 207     MM    MM    MM  17.0    MM   MM     MM
 46258    32.749 -117.502 2023 12 09 17 56  MM    MM    MM  1.3  11  7.9 278     MM    MM    MM  17.2    MM   MM     MM
-46259    34.767 -121.498 2023 12 09 17 56  MM    MM    MM  2.8  12  7.0 305     MM    MM    MM  15.2    MM   MM     MM
+46259    34.767 -121.498 2023 12 09 17 56  MM    MM    MM  2.8  12   MM  MM     MM    MM    MM  15.2    MM   MM     MM
 46266    32.957 -117.279 2023 12 09 17 56  MM    MM    MM  1.3  13  8.8 274     MM    MM    MM  16.6    MM   MM     MM
 46267    48.173 -123.607 2023 12 09 18 00  MM    MM    MM  0.5   5  3.8  67     MM    MM    MM   9.7    MM   MM     MM
 46268    34.022 -118.578 2023 12 09 18 00  MM    MM    MM  0.7  13  3.7 233     MM    MM  18.5  16.7    MM   MM     MM
@@ -221,7 +223,7 @@
 51205    21.018 -156.425 2023 12 09 17 56  MM    MM    MM  2.4  14 10.4 322     MM    MM    MM  25.8    MM   MM     MM
 51206    19.779 -154.970 2023 12 09 17 30  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  25.6    MM   MM     MM
 51207    21.477 -157.752 2023 12 09 17 56  MM    MM    MM  1.5  11  8.3   4     MM    MM    MM  25.5    MM   MM     MM
-51210    21.477 -157.757 2023 12 09 17 56  MM    MM    MM  1.6  13  8.7   9     MM    MM    MM  25.1    MM   MM     MM
+51210    21.477 -157.757 2023 12 09 17 56  MM    MM    MM  1.6  13   MM  MM     MM    MM    MM  25.1    MM   MM     MM
 51211    21.297 -157.959 2023 12 09 18 00  MM    MM    MM  0.6  14  8.2 166     MM    MM    MM  25.6    MM   MM     MM
 51212    21.323 -158.149 2023 12 09 18 00  MM    MM    MM  1.6  13 10.7 308     MM    MM    MM  26.0    MM   MM     MM
 51WH0    22.750 -158.000 2023 12 09 17 30 150   2.0    MM   MM  MM   MM  MM 1013.8    MM  24.6  25.3  19.7   MM     MM
@@ -277,7 +279,7 @@ ANVC1    38.915 -123.711 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1027
 APAM2    38.983  -76.479 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1020.9    MM    MM  10.3    MM   MM     MM
 APCF1    29.724  -84.980 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1020.2    MM    MM  15.4    MM   MM     MM
 APMA2    61.239 -149.889 2023 12 09 18 14  MM   3.6   7.2   MM  MM   MM  MM     MM    MM  -9.7    MM -11.7   MM     MM
-APNM4    45.060  -83.424 2023 12 09 18 10 160   6.7   7.2   MM  MM   MM  MM     MM    MM   6.7    MM    MM   MM     MM
+APNM4    45.060  -83.424 2023 12 09 18 20 170   7.2   7.7   MM  MM   MM  MM     MM    MM   8.2    MM    MM   MM     MM
 APRP7    13.444  144.657 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1008.9    MM    MM  28.1    MM   MM     MM
 APXA2    59.770 -151.868 2023 12 09 17 45  60   4.1    MM   MM  MM   MM  MM 1002.0    MM  -7.4    MM  -8.6   MM     MM
 APXF1    29.769  -84.881 2023 12 09 18 00 150   3.6    MM   MM  MM   MM  MM 1023.0  +1.0  22.0    MM  19.2   MM     MM
@@ -332,7 +334,7 @@ CHAO3    43.351 -124.337 2023 12 09 17 36 160   0.5   2.1   MM  MM   MM  MM 1027
 CHAV3    18.335  -64.920 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1015.5    MM    MM    MM    MM   MM     MM
 CHBV2    37.032  -76.083 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1020.3    MM    MM    MM    MM   MM     MM
 CHCM2    39.527  -75.810 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1021.7    MM    MM   6.4    MM   MM     MM
-CHII2    41.916  -87.572 2023 12 09 18 00 240  11.3  13.9   MM  MM   MM  MM     MM    MM  10.1    MM   3.3   MM     MM
+CHII2    41.916  -87.572 2023 12 09 18 20 240  12.4  13.9   MM  MM   MM  MM     MM    MM  10.1    MM   3.5   MM     MM
 CHSV3    17.748  -64.699 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1015.1    MM    MM  28.3    MM   MM     MM
 CHTM3    41.688  -69.950 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM   6.3    MM   MM     MM
 CHTS1    32.781  -79.924 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1023.6    MM    MM  15.2    MM   MM     MM
@@ -347,7 +349,7 @@ CMPO1    41.547  -83.015 2023 12 09 17 30 220   8.2  13.4   MM  MM   MM  MM     
 CMTI2    41.730  -87.538 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1007.4    MM    MM    MM    MM   MM     MM
 CNBF1    25.702  -81.186 2023 12 09 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  21.3    MM   MM  -0.12
 CNDO1    41.542  -81.637 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1010.1    MM    MM   7.7    MM   MM     MM
-CNII2    41.856  -87.609 2023 12 09 18 15 260   8.2   9.3   MM  MM   MM  MM     MM    MM   9.2    MM   0.3   MM     MM
+CNII2    41.856  -87.609 2023 12 09 18 30 220   7.2   9.3   MM  MM   MM  MM     MM    MM   9.0    MM   1.0   MM     MM
 COVM2    38.402  -76.385 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1021.7    MM    MM    MM    MM   MM     MM
 CPMW1    48.860 -122.756 2023 12 09 17 18  80   4.6   6.7   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 CPNW1    48.863 -122.758 2023 12 09 17 18  70   6.2  10.3   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
@@ -452,7 +454,6 @@ JNEA2    58.298 -134.411 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1000
 JNGA2    58.291 -134.394 2023 12 09 18 13 320   2.1   3.1   MM  MM   MM  MM  999.6    MM   0.9    MM   0.9   MM     MM
 JXUF1    30.354  -81.612 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  18.0    MM   MM     MM
 KBMG1    30.777  -81.487 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1021.7    MM    MM    MM    MM   MM     MM
-KBQX     28.314  -95.620 2023 12 09 15 35 180   5.7    MM   MM  MM   MM  MM     MM    MM    24    MM    22  5.2     MM
 KCXA2    55.057 -162.326 2023 12 09 18 15  40   4.1   7.2   MM  MM   MM  MM 1003.0    MM  -2.3    MM  -3.1   MM     MM
 KDAA2    57.731 -152.511 2023 12 09 17 42  MM    MM    MM   MM  MM   MM  MM 1001.8    MM    MM   5.1    MM   MM     MM
 KDLP     29.121  -89.547 2023 12 09 18 15 140   3.6    MM   MM  MM   MM  MM     MM    MM    23    MM    22  8.7     MM
@@ -487,7 +488,7 @@ LDLC3    41.306  -72.077 2023 12 09 18 15 120   5.1   6.2   MM  MM   MM  MM     
 LDTM4    43.947  -86.441 2023 12 09 17 12 260   8.2  11.8   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 LIXA2    58.540 -135.047 2023 12 09 18 12 340  12.9  19.6   MM  MM   MM  MM     MM    MM   0.0    MM  -0.6   MM     MM
 LJAC1    32.867 -117.257 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1022.2    MM    MM  16.5    MM   MM     MM
-LJPC1    32.867 -117.257 2023 12 09 17 20  MM   0.0   0.5  1.2   9  7.7  MM     MM    MM    MM    MM    MM   MM     MM
+LJPC1    32.867 -117.257 2023 12 09 17 20  MM   0.0   0.5  1.2   9   MM  MM     MM    MM    MM    MM    MM   MM     MM
 LKWF1    26.613  -80.034 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1021.5    MM    MM  25.6    MM   MM     MM
 LMFS1    34.107  -81.271 2023 12 09 18 20  MM   0.0   0.0   MM  MM   MM  MM     MM    MM  22.1    MM    MM   MM     MM
 LNDC1    37.795 -122.281 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1028.2    MM    MM    MM    MM   MM     MM
@@ -510,7 +511,7 @@ MBRM4    42.975  -82.419 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1006
 MBXC1    35.371 -120.859 2023 12 09 17 50  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  13.4    MM   MM     MM
 MCGA1    30.649  -88.058 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1018.7    MM    MM  16.3    MM   MM     MM
 MCGM4    46.546  -87.379 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM  997.8    MM    MM    MM    MM   MM     MM
-MCYI3    41.729  -86.912 2023 12 09 18 00 230   7.7   8.2   MM  MM   MM  MM 1008.0  +2.4   8.8    MM   4.3   MM     MM
+MCYI3    41.729  -86.912 2023 12 09 18 20 230   9.3   9.8   MM  MM   MM  MM 1007.7    MM   8.8    MM   3.9   MM     MM
 MDKF1    25.289  -80.396 2023 12 09 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.4    MM   MM   0.28
 MDRM1    43.969  -68.128 2023 12 09 18 00 160  10.3  10.8   MM  MM   MM  MM 1025.5  -1.8   6.1    MM   3.0   MM     MM
 MEEM4    44.251  -86.342 2023 12 09 17 40 230  11.8  13.9   MM  MM   MM  MM     MM    MM   6.1    MM    MM   MM     MM
@@ -522,7 +523,7 @@ MHBT2    27.828  -97.201 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1013
 MHRN6    40.641  -74.162 2023 12 09 17 18  50   1.0   1.5   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 MISM1    43.784  -68.855 2023 12 09 18 00 170  10.3  10.8   MM  MM   MM  MM 1025.1  -1.9   7.1    MM    MM   MM     MM
 MISP4    18.090  -67.939 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1015.0    MM    MM  28.3    MM   MM     MM
-MKGM4    43.228  -86.339 2023 12 09 18 10  MM    MM    MM   MM  MM   MM  MM 1007.0    MM   7.3    MM   4.4   MM     MM
+MKGM4    43.228  -86.339 2023 12 09 18 20  MM    MM    MM   MM  MM   MM  MM 1007.3    MM   7.3    MM   4.3   MM     MM
 MLSC1    36.802 -121.791 2023 12 09 17 55  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  13.9    MM   MM     MM
 MLWW3    43.005  -87.884 2023 12 09 18 10 260   6.7   9.8   MM  MM   MM  MM     MM    MM   6.6    MM    MM   MM     MM
 MNMM4    45.096  -87.590 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM  999.7    MM    MM   2.5    MM   MM     MM
@@ -711,7 +712,7 @@ SRXA2    58.383 -134.652 2023 12 09 18 13  20   1.0   1.5   MM  MM   MM  MM  999
 SSBN7    33.838  -78.484 2023 12 09 17 25  MM    MM    MM  0.4   4  4.4 159     MM    MM    MM  14.2    MM   MM     MM
 STDM4    47.184  -87.225 2023 12 09 18 00 330   5.7   5.7   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 STXA2    57.116 -135.391 2023 12 09 18 12  70   1.0   1.5   MM  MM   MM  MM     MM    MM   3.0    MM   1.7   MM     MM
-SVNM4    42.401  -86.288 2023 12 09 18 00 200   7.7   8.2   MM  MM   MM  MM     MM    MM   8.4    MM    MM   MM     MM
+SVNM4    42.401  -86.288 2023 12 09 18 10 200   7.2   7.7   MM  MM   MM  MM     MM    MM   8.4    MM    MM   MM     MM
 SVXA2    63.693 -170.492 2023 12 09 18 14  60   1.0   2.1   MM  MM   MM  MM     MM    MM  -8.6    MM -11.7   MM     MM
 SWLA2    60.120 -149.427 2023 12 09 17 42  MM    MM    MM   MM  MM   MM  MM 1001.3    MM    MM   7.5    MM   MM     MM
 SWPM4    46.501  -84.372 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM  996.2    MM    MM    MM    MM   MM     MM
@@ -738,7 +739,7 @@ TOKW1    46.707 -123.967 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1024
 TPLM2    38.899  -76.436 2023 12 09 18 00  50   2.1   2.1   MM  MM   MM  MM 1022.1  -1.8   8.0    MM    MM   MM     MM
 TRDF1    28.416  -80.593 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1020.9    MM    MM  22.9    MM   MM     MM
 TSHF1    27.929  -82.426 2023 12 09 17 06 140   4.1   4.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
-TWCO1    41.699  -83.259 2023 12 09 18 10 230  11.8  16.5   MM  MM   MM  MM     MM    MM  15.0    MM  11.9   MM     MM
+TWCO1    41.699  -83.259 2023 12 09 18 20 230  11.3  14.4   MM  MM   MM  MM     MM    MM  15.0    MM  11.9   MM     MM
 TXPT2    29.689  -93.842 2023 12 09 17 42  MM    MM    MM   MM  MM   MM  MM 1013.8    MM    MM  16.4    MM   MM     MM
 TXVT2    27.813  -97.389 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1013.3    MM    MM    MM    MM  5.9     MM
 ULRA2    63.872 -160.784 2023 12 09 17 48  MM    MM    MM   MM  MM   MM  MM 1007.7    MM    MM    MM    MM   MM     MM
