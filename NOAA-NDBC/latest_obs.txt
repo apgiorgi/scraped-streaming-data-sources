@@ -480,8 +480,8 @@ KP58     44.017  -82.800 2023 12 10 11 55 250   5.1   9.3   MM  MM   MM  MM 1008
 KP59     47.467  -87.883 2023 12 10 10 51  20  11.8  15.4   MM  MM   MM  MM 1010.6    MM   0.0    MM  -3.9   MM     MM
 KPTN6    40.811  -73.765 2023 12 10 11 30  MM    MM    MM   MM  MM   MM  MM 1015.9    MM  10.6   9.0    MM   MM     MM
 KPTV2    37.165  -75.988 2023 12 10 11 30  MM    MM    MM   MM  MM   MM  MM 1014.5    MM  14.7  10.1    MM   MM     MM
-KVAF     27.354  -94.625 2023 12 10 11 35 300   4.6  11.8   MM  MM   MM  MM     MM    MM    19    MM     7  8.7     MM
-KVOA     29.229  -87.781 2023 12 10 11 40 220  10.8  14.9   MM  MM   MM  MM     MM    MM    21    MM    19  1.1     MM
+KVAF     27.354  -94.625 2023 12 10 11 55  MM   2.6  16.5   MM  MM   MM  MM     MM    MM    18    MM     6  8.7     MM
+KVOA     29.229  -87.781 2023 12 10 12 00 230  10.8  13.4   MM  MM   MM  MM     MM    MM    22    MM    20  5.2     MM
 KWHH1    20.037 -155.829 2023 12 10 11 30  MM    MM    MM   MM  MM   MM  MM 1014.1    MM  23.7  26.6    MM   MM     MM
 KWJP8     8.732  167.734 2023 12 10 11 30  MM    MM    MM   MM  MM   MM  MM 1007.1    MM    MM  28.7    MM   MM     MM
 KWNW3    44.465  -87.496 2023 12 10 11 18 330   2.1   4.1   MM  MM   MM  MM 1010.3    MM   1.1    MM    MM   MM     MM
