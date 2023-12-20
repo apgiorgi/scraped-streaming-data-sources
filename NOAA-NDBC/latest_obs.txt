@@ -292,7 +292,7 @@ BBNF1    25.601  -80.306 2023 12 20 11 00  MM    MM    MM   MM  MM   MM  MM     
 BBSF1    25.472  -80.349 2023 12 20 11 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  19.3    MM   MM     MM
 BDRN4    40.082  -74.870 2023 12 20 10 36  MM   0.0   1.5   MM  MM   MM  MM 1028.5    MM  -1.4   6.5    MM   MM     MM
 BDSP1    39.980  -75.079 2023 12 20 11 18  MM    MM    MM   MM  MM   MM  MM 1029.1    MM  -0.6   7.3    MM   MM     MM
-BDVF1    25.478  -80.989 2023 12 20 10 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  18.1    MM   MM   0.14
+BDVF1    25.478  -80.989 2023 12 20 11 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  18.0    MM   MM   0.12
 BEXA2    60.791 -161.749 2023 12 20 11 44 360   2.6   3.6   MM  MM   MM  MM     MM    MM -10.4    MM -11.9   MM     MM
 BFTN7    34.717  -76.671 2023 12 20 11 18  10   2.6   5.7   MM  MM   MM  MM 1029.2    MM   2.6  10.5    MM   MM     MM
 BGNN6    40.639  -74.146 2023 12 20 11 18  MM    MM    MM   MM  MM   MM  MM 1027.9    MM   0.1   7.0    MM   MM     MM
@@ -311,7 +311,7 @@ BLTM2    39.267  -76.579 2023 12 20 11 18 280   1.0   1.5   MM  MM   MM  MM     
 BLTM3    41.704  -71.174 2023 12 20 11 18 360   2.1   2.6   MM  MM   MM  MM 1025.2    MM  -0.5    MM    MM   MM     MM
 BMTW1    47.562 -122.626 2023 12 20 11 18  MM    MM    MM   MM  MM   MM  MM 1010.7    MM    MM    MM    MM   MM     MM
 BNKF1    25.087  -80.519 2023 12 20 11 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  18.5    MM   MM  -0.10
-BOBF1    25.027  -80.681 2023 12 20 10 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  18.9    MM   MM   0.04
+BOBF1    25.027  -80.681 2023 12 20 11 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  18.7    MM   MM  -0.01
 BRHC3    41.174  -73.181 2023 12 20 11 18 340   3.6   4.6   MM  MM   MM  MM 1025.5    MM  -0.5   9.4    MM   MM     MM
 BRND1    38.987  -75.113 2023 12 20 11 12  MM    MM    MM   MM  MM   MM  MM 1029.8    MM    MM    MM    MM   MM     MM
 BSBM4    44.055  -86.514 2023 12 20 11 40 240   2.6   4.1   MM  MM   MM  MM 1025.4    MM   2.4    MM    MM   MM     MM
