@@ -759,7 +759,6 @@ TESL1    29.668  -91.237 2023 12 22 05 18  60   2.6   4.1   MM  MM   MM  MM 1025
 THLO1    41.826  -83.194 2023 12 22 05 30  60   5.1   5.7   MM  MM   MM  MM     MM    MM   3.7    MM    MM   MM     MM
 THRF1    25.203  -80.372 2023 12 22 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  19.5    MM   MM   0.51
 THRO1    41.694  -83.473 2023 12 22 05 18  50   1.5   2.6   MM  MM   MM  MM 1026.2    MM   3.5    MM   1.6   MM     MM
-TIBC1    37.892 -122.447 2023 12 22 03 14  MM   0.0    MM   MM  MM   MM  MM 1015.0    MM  14.7    MM  11.0   MM     MM
 TIXC1    32.575 -117.127 2023 12 22 04 45 150   1.0    MM   MM  MM   MM  MM 1012.0    MM  16.4    MM  12.6   MM     MM
 TKEA2    57.779 -135.219 2023 12 22 05 52 340   1.0   1.5   MM  MM   MM  MM  996.3    MM   1.4    MM   1.1   MM     MM
 TKPN6    42.014  -73.939 2023 12 22 05 30 360   8.2  10.3   MM  MM   MM  MM 1033.4    MM  -4.0   3.4  -8.3   MM     MM
