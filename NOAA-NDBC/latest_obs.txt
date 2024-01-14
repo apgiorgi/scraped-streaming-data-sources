@@ -749,10 +749,10 @@ TKPN6    42.014  -73.939 2024 01 14 17 18 180   8.2  10.8   MM  MM   MM  MM 1004
 TLBO3    45.555 -123.919 2024 01 14 17 18  MM    MM    MM   MM  MM   MM  MM 1021.3    MM    MM   8.3    MM   MM     MM
 TLVT2    27.819  -97.454 2024 01 14 17 18  MM    MM    MM   MM  MM   MM  MM 1019.7    MM   9.2    MM   4.0  5.9     MM
 TOKW1    46.707 -123.967 2024 01 14 17 18  90   3.1   4.1   MM  MM   MM  MM 1022.9    MM  -3.5   4.1    MM   MM     MM
-TPEF1    25.410  -80.964 2024 01 14 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.5    MM   MM  -0.07
+TPEF1    25.410  -80.964 2024 01 14 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.4    MM   MM  -0.23
 TPLM2    38.899  -76.436 2024 01 14 17 00 220  13.4  17.0   MM  MM   MM  MM 1011.5  -2.0   8.0    MM    MM   MM     MM
 TRDF1    28.416  -80.593 2024 01 14 17 18 360   2.6   3.6   MM  MM   MM  MM 1021.4    MM  17.0  21.8    MM   MM     MM
-TRRF1    25.217  -80.650 2024 01 14 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  23.4    MM   MM   0.23
+TRRF1    25.217  -80.650 2024 01 14 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  23.6    MM   MM   0.23
 TSHF1    27.929  -82.426 2024 01 14 17 06  20   3.1   4.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 TWCO1    41.699  -83.259 2024 01 14 17 40 300  13.4  16.0   MM  MM   MM  MM     MM    MM -15.1    MM -18.5   MM     MM
 TXPT2    29.689  -93.842 2024 01 14 17 12  50   2.6   3.6   MM  MM   MM  MM 1018.9    MM  14.2  13.2    MM   MM     MM
