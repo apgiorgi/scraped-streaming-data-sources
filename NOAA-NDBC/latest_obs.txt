@@ -784,7 +784,7 @@ WEXM1    43.337  -70.549 2024 02 11 17 00 280   3.1    MM   MM  MM   MM  MM     
 WFPM4    46.760  -84.970 2024 02 11 17 40 260   3.6   5.7   MM  MM   MM  MM     MM    MM   0.6    MM    MM   MM     MM
 WGXA2    56.467 -132.382 2024 02 11 17 45 270   2.1   3.6   MM  MM   MM  MM 1016.9    MM   2.2    MM   1.8   MM     MM
 WHRI2    42.361  -87.813 2024 02 11 17 00 290   1.0   2.1   MM  MM   MM  MM     MM    MM  -0.1    MM    MM   MM     MM
-WIWF1    25.587  -81.044 2024 02 11 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  20.7    MM   MM   0.29
+WIWF1    25.587  -81.044 2024 02 11 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  20.8    MM   MM   0.23
 WIXA2    60.777 -148.682 2024 02 11 17 48 130   1.0   2.1   MM  MM   MM  MM 1002.5    MM   1.4    MM    MM   MM     MM
 WKXA1    30.421  -87.828 2024 02 11 16 45 150   0.5    MM   MM  MM   MM  MM 1012.0    MM  22.2    MM  22.2   MM     MM
 WLON7    34.228  -77.954 2024 02 11 17 18  MM    MM    MM   MM  MM   MM  MM 1013.1    MM    MM  10.7    MM   MM     MM
@@ -792,7 +792,7 @@ WNEM4    46.285  -84.210 2024 02 11 17 18 300   5.1   6.7   MM  MM   MM  MM 1013
 WPLF1    25.710  -81.249 2024 02 11 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  21.3    MM   MM  -0.77
 WPOW1    47.662 -122.436 2024 02 11 17 00 140   3.1   3.1   MM  MM   MM  MM 1017.0  -0.5   6.6    MM   6.6   MM     MM
 WPTW1    46.904 -124.105 2024 02 11 16 36  MM    MM    MM   MM  MM   MM  MM 1015.2    MM   8.9  10.6    MM   MM     MM
-WRBF1    25.072  -80.735 2024 02 11 16 00  MM   1.5    MM   MM  MM   MM  MM     MM    MM    MM  22.1    MM   MM   0.05
+WRBF1    25.072  -80.735 2024 02 11 17 00  MM   2.1    MM   MM  MM   MM  MM     MM    MM    MM  22.3    MM   MM   0.06
 WRXA2    70.636 -160.034 2024 02 11 17 45  60   9.8  13.9   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 WWEF1    25.232  -80.938 2024 02 11 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  21.8    MM   MM  -0.31
 WYCM6    30.326  -89.326 2024 02 11 17 18 150   3.1   5.1   MM  MM   MM  MM     MM    MM    MM  17.3    MM   MM     MM
