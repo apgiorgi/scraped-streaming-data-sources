@@ -735,7 +735,7 @@ TBYF1    25.155  -80.722 2024 03 03 17 00  MM    MM    MM   MM  MM   MM  MM     
 TCBM2    39.213  -76.244 2024 03 03 17 18 240   2.6   3.1   MM  MM   MM  MM 1024.3    MM    MM    MM    MM   MM     MM
 TCMW1    47.276 -122.418 2024 03 03 17 18 170   1.0   3.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 TCNW1    47.267 -122.413 2024 03 03 17 18  MM    MM    MM   MM  MM   MM  MM 1005.9    MM    MM   9.3    MM   MM     MM
-TCVF1    25.213  -80.533 2024 03 03 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  24.6    MM   MM  -0.73
+TCVF1    25.213  -80.533 2024 03 03 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  25.2    MM   MM  -0.76
 TDPC1    41.055 -124.147 2024 03 03 17 30  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  10.4    MM   MM     MM
 TESL1    29.668  -91.237 2024 03 03 17 18 100   4.1   5.7   MM  MM   MM  MM 1017.8    MM    MM  14.1    MM   MM     MM
 TFBLK    65.698  -24.778 2024 03 03 16 00  MM    MM    MM  1.9   7   MM  MM     MM    MM    MM    MM    MM   MM     MM
@@ -785,7 +785,7 @@ WIXA2    60.777 -148.682 2024 03 03 17 44 190   1.0   1.5   MM  MM   MM  MM 1016
 WKXA1    30.421  -87.828 2024 03 03 16 45 160   1.5    MM   MM  MM   MM  MM 1020.0    MM  23.1    MM  20.7   MM     MM
 WLON7    34.228  -77.954 2024 03 03 17 18  MM    MM    MM   MM  MM   MM  MM 1021.7    MM    MM  13.9    MM   MM     MM
 WNEM4    46.285  -84.210 2024 03 03 17 18 110   4.1   7.7   MM  MM   MM  MM 1017.5    MM    MM    MM    MM   MM     MM
-WPLF1    25.710  -81.249 2024 03 03 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  24.9    MM   MM  -0.87
+WPLF1    25.710  -81.249 2024 03 03 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  25.1    MM   MM  -0.89
 WPOW1    47.662 -122.436 2024 03 03 17 00 190   9.8  11.3   MM  MM   MM  MM 1004.3  +1.6   2.9    MM   2.8   MM     MM
 WPTW1    46.904 -124.105 2024 03 03 16 36 240   7.7  10.3   MM  MM   MM  MM 1002.6    MM    MM   8.3    MM   MM     MM
 WRBF1    25.072  -80.735 2024 03 03 17 00  MM   2.1    MM   MM  MM   MM  MM     MM    MM    MM  25.4    MM   MM  -0.93
