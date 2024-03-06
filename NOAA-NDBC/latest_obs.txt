@@ -534,7 +534,7 @@ MROS1    33.656  -78.916 2024 03 06 17 18 180   9.8  11.3   MM  MM   MM  MM 1005
 MRYA2    55.099 -131.182 2024 03 06 17 42 100   5.1   7.7   MM  MM   MM  MM 1012.8    MM   0.5    MM  -1.8   MM     MM
 MTBF1    27.661  -82.594 2024 03 06 17 18 250   3.6   3.6   MM  MM   MM  MM 1012.7    MM  22.2    MM  20.1  5.9     MM
 MTKN6    41.048  -71.959 2024 03 06 17 18  MM    MM    MM   MM  MM   MM  MM 1015.9    MM   7.1   5.7    MM   MM     MM
-MUKF1    25.106  -80.942 2024 03 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  25.8    MM   MM     MM
+MUKF1    25.106  -80.942 2024 03 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.2    MM   MM     MM
 MVXA2    58.364 -134.606 2024 03 06 17 42 150   3.1   5.1   MM  MM   MM  MM     MM    MM  -2.6    MM  -4.6   MM     MM
 MXXA2    58.301 -134.425 2024 03 06 17 42 120   5.1   7.7   MM  MM   MM  MM     MM    MM  -2.5    MM  -3.2   MM     MM
 MYPF1    30.398  -81.428 2024 03 06 17 18 270   5.7   7.2   MM  MM   MM  MM 1010.8    MM  23.2  17.4    MM   MM     MM
@@ -611,7 +611,7 @@ PHBP1    39.933  -75.142 2024 03 06 17 18  MM    MM    MM   MM  MM   MM  MM 1015
 PILA2    59.742 -149.470 2024 03 06 17 30 360   7.7   8.2   MM  MM   MM  MM     MM    MM   2.2    MM  -1.4   MM     MM
 PILL1    29.179  -89.259 2024 03 06 17 18  40   4.6   6.7   MM  MM   MM  MM 1013.1    MM  17.0  12.8    MM   MM     MM
 PILM4    48.223  -88.366 2024 03 06 17 00  80   5.7   6.2   MM  MM   MM  MM 1028.2  +0.5  -0.8    MM    MM   MM     MM
-PKYF1    24.918  -80.747 2024 03 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.2    MM   MM  -1.00
+PKYF1    24.918  -80.747 2024 03 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.5    MM   MM  -1.02
 PLXA2    56.247 -134.647 2024 03 06 17 18 270   0.5   3.6   MM  MM   MM  MM 1005.6    MM   1.0   4.6    MM   MM     MM
 PMAF1    27.638  -82.562 2024 03 06 17 18  MM    MM    MM   MM  MM   MM  MM 1013.2    MM  22.9  21.8    MM   MM     MM
 PMNT2    26.559  -97.424 2024 03 06 17 18  MM    MM    MM   MM  MM   MM  MM 1011.2    MM  23.5  25.5    MM   MM     MM
