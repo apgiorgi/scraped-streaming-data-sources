@@ -303,7 +303,6 @@ BOBF1    25.027  -80.681 2024 03 30 04 00  MM    MM    MM  9.5  MM   MM  MM     
 BRHC3    41.174  -73.181 2024 03 30 05 18 290   4.6   6.7   MM  MM   MM  MM 1005.6    MM   4.5   6.9    MM   MM     MM
 BRND1    38.987  -75.113 2024 03 30 05 18  MM    MM    MM   MM  MM   MM  MM 1012.4    MM    MM    MM    MM   MM     MM
 BSBM4    44.055  -86.514 2024 03 30 05 40  90   5.1   6.2   MM  MM   MM  MM 1014.9    MM   0.7    MM    MM   MM     MM
-BSKF1    25.266  -81.162 2024 03 30 03 00  MM    MM    MM  6.4  MM   MM  MM     MM    MM    MM  22.7    MM   MM  -3.61
 BSLM2    38.781  -76.708 2024 03 30 05 30 140   0.5    MM   MM  MM   MM  MM 1013.0    MM   4.3    MM  -0.1   MM     MM
 BUFN6    42.878  -78.890 2024 03 30 05 18 260   5.1   5.7   MM  MM   MM  MM 1014.8    MM   1.3   5.1  -4.0   MM     MM
 BURL1    28.905  -89.428 2024 03 30 05 00  MM   5.7   6.2   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
@@ -355,7 +354,7 @@ CRVA2    60.558 -145.752 2024 03 30 05 18  90   4.1   9.3   MM  MM   MM  MM 1009
 CRYV2    36.888  -76.338 2024 03 30 05 18  MM   0.0   1.5   MM  MM   MM  MM 1014.2    MM  11.2    MM    MM   MM     MM
 CSPA2    58.199 -136.640 2024 03 30 05 10 260   7.2   9.3   MM  MM   MM  MM 1015.0    MM   4.0    MM   4.0   MM     MM
 CSXA2    58.199 -136.641 2024 03 30 05 43 270   7.2  10.8   MM  MM   MM  MM 1011.3    MM   4.2    MM   1.5   MM     MM
-CWAF1    25.297  -81.013 2024 03 30 03 00  MM    MM    MM  9.7  MM   MM  MM     MM    MM    MM  25.0    MM   MM  -0.34
+CWAF1    25.297  -81.013 2024 03 30 04 00  MM    MM    MM  9.5  MM   MM  MM     MM    MM    MM  23.8    MM   MM  -0.46
 CWBF1    27.978  -82.832 2024 03 30 05 18  10   3.1   4.1   MM  MM   MM  MM 1021.0    MM  19.3  23.0    MM   MM     MM
 CWCI     47.334  -85.833 2024 03 30 05 00  20   1.5    MM   MM  MM   MM  MM 1017.3    MM  -0.8    MM  -4.0   MM     MM
 DBLN6    42.494  -79.354 2024 03 30 05 00 350   4.1   4.6   MM  MM   MM  MM 1016.5  +0.3   2.6    MM    MM   MM     MM
