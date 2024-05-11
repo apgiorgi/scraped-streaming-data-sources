@@ -521,8 +521,8 @@ KMXA2    57.782 -152.439 2024 05 11 05 44 150   1.5   5.1   MM  MM   MM  MM     
 KNSW3    42.589  -87.809 2024 05 11 05 00 330   2.6   5.1   MM  MM   MM  MM 1007.1    MM  11.3    MM    MM   MM     MM
 KNXA2    60.552 -151.274 2024 05 11 05 44  60   5.7   9.8   MM  MM   MM  MM     MM    MM   6.5    MM  -0.9   MM     MM
 KOZA2    66.901 -162.589 2024 05 11 05 44 300   4.6   6.7   MM  MM   MM  MM 1011.1    MM  -3.5    MM  -3.9   MM     MM
-KP53     46.417  -86.650 2024 05 11 04 56  MM     0    MM   MM  MM   MM  MM 1005.2    MM   9.4    MM   7.8   MM     MM
-KP58     44.017  -82.800 2024 05 11 04 55  MM   2.1    MM   MM  MM   MM  MM 1006.2    MM  12.2    MM   1.1   MM     MM
+KP53     46.417  -86.650 2024 05 11 05 56  20   1.5    MM   MM  MM   MM  MM 1005.5    MM   8.3    MM   7.8   MM     MM
+KP58     44.017  -82.800 2024 05 11 05 55  MM   2.6    MM   MM  MM   MM  MM 1005.6    MM  11.7    MM   2.2   MM     MM
 KP59     47.467  -87.883 2024 05 11 05 51 300   2.1    MM   MM  MM   MM  MM 1006.4    MM   7.2    MM   5.0   MM     MM
 KPTN6    40.811  -73.765 2024 05 11 05 30  30   0.5   1.0   MM  MM   MM  MM 1011.0    MM   8.6    MM    MM   MM     MM
 KPTV2    37.165  -75.988 2024 05 11 05 30  30   4.1   6.2   MM  MM   MM  MM 1009.4    MM  11.1  19.1    MM   MM     MM
