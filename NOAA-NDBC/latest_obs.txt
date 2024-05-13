@@ -560,7 +560,7 @@ LPNM4    45.063  -83.429 2024 05 13 17 18  70   3.6   5.1   MM  MM   MM  MM 1005
 LQAT2    27.881  -97.285 2024 05 13 17 18 160   2.1   2.6   MM  MM   MM  MM 1004.5    MM  29.9  28.3  28.3  5.9     MM
 LRIF1    25.284  -80.894 2024 05 13 17 00  MM    MM    MM  9.9  MM   MM  MM     MM    MM    MM  31.1    MM   MM  -0.14
 LRKF1    24.982  -80.826 2024 05 13 16 00  MM    MM    MM  9.6  MM   MM  MM     MM    MM    MM  30.0    MM   MM  -0.37
-LSNF1    25.235  -80.457 2024 05 13 16 00  MM    MM    MM  9.7  MM   MM  MM     MM    MM    MM  30.5    MM   MM  -0.31
+LSNF1    25.235  -80.457 2024 05 13 17 00  MM    MM    MM  9.7  MM   MM  MM     MM    MM    MM  30.8    MM   MM  -0.32
 LTBV3    17.695  -64.754 2024 05 13 17 18 130   4.6   6.7   MM  MM   MM  MM 1014.8    MM  30.0  30.4    MM   MM     MM
 LTJF1    30.379  -81.446 2024 05 13 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM  24.8    MM  19.7  5.9     MM
 LTRM4    46.486  -84.302 2024 05 13 17 18 300   5.7   7.7   MM  MM   MM  MM 1006.1    MM  16.0   6.5   6.7   MM     MM
