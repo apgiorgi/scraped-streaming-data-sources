@@ -444,7 +444,7 @@ DESW1    47.675 -124.485 2024 07 06 11 00 320   2.6   2.6   MM  MM   MM  MM 1016
 DHXA2    70.222 -148.419 2024 07 06 11 43  70   5.7   7.2   MM  MM   MM  MM  999.4    MM   1.9    MM   1.9   MM     MM
 DILA1    30.250  -88.075 2024 07 06 11 18  40   3.6   4.6   MM  MM   MM  MM 1013.2    MM  27.1  30.6    MM   MM     MM
 DISW3    47.079  -90.728 2024 07 06 11 00 230   5.7   6.2   MM  MM   MM  MM 1013.1  +0.0  15.4    MM  15.1   MM     MM
-DKKF1    25.180  -80.490 2024 07 06 10 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.9    MM   MM  -0.18
+DKKF1    25.180  -80.490 2024 07 06 11 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.8    MM   MM  -0.19
 DMSF1    30.387  -81.559 2024 07 06 11 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.9    MM   MM     MM
 DOMV2    36.962  -76.424 2024 07 06 11 18 200   5.1   6.7   MM  MM   MM  MM 1012.0    MM  26.7    MM    MM   MM     MM
 DPHA1    30.251  -88.078 2024 07 06 09 30  MM    MM    MM   MM  MM   MM  MM  995.4    MM  26.8  30.3    MM   MM     MM
@@ -485,8 +485,8 @@ FRXM3    41.696  -71.180 2024 07 06 11 18  MM    MM    MM   MM  MM   MM  MM     
 FSKM2    39.219  -76.528 2024 07 06 11 18 270   4.1   4.6   MM  MM   MM  MM 1010.2    MM  28.0    MM    MM   MM     MM
 FTGM4    43.007  -82.422 2024 07 06 11 18 300   0.5   2.6   MM  MM   MM  MM 1008.4    MM  18.8    MM  17.5   MM     MM
 FTPC1    37.806 -122.466 2024 07 06 11 18 200   2.1   4.1   MM  MM   MM  MM 1011.4    MM  13.4    MM    MM   MM     MM
-GBIF1    25.378  -81.029 2024 07 06 10 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.0    MM   MM   0.10
-GBTF1    25.167  -80.801 2024 07 06 10 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.9    MM   MM  -0.27
+GBIF1    25.378  -81.029 2024 07 06 11 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.9    MM   MM  -0.18
+GBTF1    25.167  -80.801 2024 07 06 11 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.7    MM   MM  -0.27
 GBWW3    44.538  -88.003 2024 07 06 11 18 310   2.6   4.1   MM  MM   MM  MM 1011.6    MM  17.0    MM    MM   MM     MM
 GBXA2    63.777 -171.715 2024 07 06 11 43 240   4.6   7.2   MM  MM   MM  MM     MM    MM   5.1    MM   4.1   MM     MM
 GDMM5    47.749  -90.341 2024 07 06 11 18  MM    MM    MM   MM  MM   MM  MM 1011.1    MM  14.7  11.7  14.7   MM     MM
