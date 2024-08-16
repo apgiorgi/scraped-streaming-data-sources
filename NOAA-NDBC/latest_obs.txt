@@ -402,7 +402,7 @@ BYGL1    29.789  -90.420 2024 08 16 17 18  MM    MM    MM   MM  MM   MM  MM 1016
 BZBM3    41.524  -70.671 2024 08 16 17 18  MM    MM    MM   MM  MM   MM  MM 1017.8    MM  22.6  22.6    MM   MM     MM
 BZST2    26.067  -97.155 2024 08 16 17 18 130   4.1   4.6   MM  MM   MM  MM 1014.3    MM  29.4  28.2    MM   MM     MM
 CAMM2    38.574  -76.069 2024 08 16 17 18 180   3.1   5.7   MM  MM   MM  MM 1018.1    MM  29.8  27.6    MM   MM     MM
-CANF1    25.422  -80.942 2024 08 16 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.2    MM   MM   0.71
+CANF1    25.422  -80.942 2024 08 16 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.2    MM   MM   0.76
 CAPL1    29.768  -93.343 2024 08 16 17 18  20   2.6   3.1   MM  MM   MM  MM 1017.5    MM  30.7  31.7    MM   MM     MM
 CARL1    29.933  -90.135 2024 08 16 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.9    MM   MM     MM
 CASM1    43.656  -70.246 2024 08 16 17 18 110   4.1   5.1   MM  MM   MM  MM 1017.9    MM  18.9  18.4    MM   MM     MM
@@ -430,7 +430,7 @@ CLSM4    42.471  -82.877 2024 08 16 17 00 170   3.6   4.6   MM  MM   MM  MM 1012
 CMAN4    38.968  -74.960 2024 08 16 17 18 240   2.6   2.6   MM  MM   MM  MM 1018.1    MM  26.4  23.3    MM   MM     MM
 CMPO1    41.547  -83.015 2024 08 16 16 30 210   4.1   6.2   MM  MM   MM  MM     MM    MM  23.1    MM    MM   MM     MM
 CMTI2    41.730  -87.538 2024 08 16 17 18 190   3.6   5.1   MM  MM   MM  MM 1009.0    MM  26.1    MM  20.6   MM     MM
-CNBF1    25.702  -81.186 2024 08 16 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.8    MM   MM   0.39
+CNBF1    25.702  -81.186 2024 08 16 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.9    MM   MM   0.57
 CNDO1    41.542  -81.637 2024 08 16 17 18 220   1.5   4.1   MM  MM   MM  MM 1010.8    MM  25.9  22.7    MM   MM     MM
 CNII2    41.856  -87.609 2024 08 16 17 45 200   4.6   4.6   MM  MM   MM  MM     MM    MM  27.7    MM  18.2   MM     MM
 COVM2    38.402  -76.385 2024 08 16 17 18 120   6.2   6.2   MM  MM   MM  MM 1018.0    MM  27.0    MM    MM   MM     MM
