@@ -374,7 +374,7 @@ BIGM4    46.827  -87.727 2024 08 24 17 40  20   2.6   2.6   MM  MM   MM  MM 1019
 BISM2    38.220  -76.039 2024 08 24 17 18  MM   0.0   0.5   MM  MM   MM  MM 1026.0    MM  25.2  26.2    MM   MM     MM
 BKBF1    30.192  -81.692 2024 08 24 17 18 360   2.6   4.1   MM  MM   MM  MM 1019.6    MM  28.2    MM    MM   MM     MM
 BKTL1    30.190  -93.301 2024 08 24 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  34.1    MM   MM     MM
-BKYF1    25.119  -80.834 2024 08 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.2    MM   MM  -0.10
+BKYF1    25.119  -80.834 2024 08 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.2    MM   MM  -0.18
 BLIA2    60.839 -146.884 2024 08 24 17 30 130   7.2   8.2   MM  MM   MM  MM 1003.6    MM  16.5    MM    MM   MM     MM
 BLIF1    30.393  -81.523 2024 08 24 17 18  10   4.1   6.2   MM  MM   MM  MM 1019.9    MM  27.6    MM  27.5  5.9     MM
 BLTA2    58.455 -135.889 2024 08 24 17 26 310   0.5   1.0   MM  MM   MM  MM     MM    MM  10.9    MM   9.0   MM     MM
@@ -503,7 +503,7 @@ GELO1    41.859  -80.975 2024 08 24 16 30 310   2.1   2.1   MM  MM   MM  MM     
 GEXA2    58.213 -136.381 2024 08 24 17 43  90   1.0   2.1   MM  MM   MM  MM     MM    MM  10.9    MM   8.8   MM     MM
 GISL1    29.265  -89.958 2024 08 24 17 18  60   7.2   9.8   MM  MM   MM  MM 1019.4    MM  29.0  29.9    MM   MM     MM
 GIXA2    55.446 -131.881 2024 08 24 17 42 140   1.0   1.5   MM  MM   MM  MM     MM    MM  14.7    MM  11.7   MM     MM
-GKYF1    24.627  -82.872 2024 08 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM  31.2    MM    MM   MM  -0.89
+GKYF1    24.627  -82.872 2024 08 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM  32.2    MM    MM   MM  -0.77
 GNJT2    29.357  -94.725 2024 08 24 17 18 100   7.2   8.2   MM  MM   MM  MM 1017.7    MM  29.5  31.0    MM   MM     MM
 GPXA2    58.062 -134.051 2024 08 24 17 03 120   2.1   2.6   MM  MM   MM  MM 1007.6    MM  11.2    MM  10.3   MM     MM
 GRMM4    46.684  -85.972 2024 08 24 17 50  MM   1.5   2.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
@@ -524,7 +524,7 @@ HIVT2    27.844  -97.070 2024 08 24 17 18  MM    MM    MM   MM  MM   MM  MM 1017
 HLNM4    42.773  -86.213 2024 08 24 17 18 250   1.0   1.0   MM  MM   MM  MM 1021.2    MM  21.8  20.4  14.2   MM     MM
 HMSA2    59.602 -151.417 2024 08 24 17 05 230   5.7   8.8   MM  MM   MM  MM     MM    MM  10.9    MM   6.5   MM     MM
 HRBM4    43.846  -82.643 2024 08 24 17 18 220   3.6   4.6   MM  MM   MM  MM 1022.4    MM  24.8  20.2  13.7   MM     MM
-HREF1    25.424  -81.060 2024 08 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  28.6    MM   MM  -0.94
+HREF1    25.424  -81.060 2024 08 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.1    MM   MM  -1.17
 HRRH1    21.431 -157.815 2024 08 24 17 30  40   1.5    MM   MM  MM   MM  MM 1016.0    MM  26.0    MM  21.3   MM     MM
 HWPM2    39.214  -76.532 2024 08 24 17 18 100   3.6   4.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 ICAC1    34.008 -118.500 2024 08 24 17 18  MM    MM    MM   MM  MM   MM  MM 1017.1    MM  19.9  20.7    MM   MM     MM
@@ -591,7 +591,7 @@ LOPW1    46.106 -122.954 2024 08 24 17 18  MM    MM    MM   MM  MM   MM  MM 1016
 LORO1    41.481  -82.195 2024 08 24 17 30 340   1.0   1.5   MM  MM   MM  MM     MM    MM  23.1    MM    MM   MM     MM
 LPNM4    45.063  -83.429 2024 08 24 17 18 190   2.6   3.6   MM  MM   MM  MM     MM    MM  23.6  17.2  17.3   MM     MM
 LQAT2    27.881  -97.285 2024 08 24 17 18 110   4.6   6.7   MM  MM   MM  MM 1016.9    MM  32.8  31.7  27.2  5.9     MM
-LRIF1    25.284  -80.894 2024 08 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.8    MM   MM   0.21
+LRIF1    25.284  -80.894 2024 08 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.8    MM   MM   0.18
 LRKF1    24.982  -80.826 2024 08 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  28.6    MM   MM  -0.35
 LSNF1    25.235  -80.457 2024 08 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.1    MM   MM  -0.28
 LTBV3    17.695  -64.754 2024 08 24 17 18 100   4.1   6.7   MM  MM   MM  MM 1013.1    MM  31.8  30.6    MM   MM     MM
