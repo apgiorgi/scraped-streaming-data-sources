@@ -1,7 +1,6 @@
 #STN       LAT      LON  YYYY MM DD hh mm WDIR WSPD   GST WVHT  DPD APD MWD   PRES  PTDY  ATMP  WTMP  DEWP  VIS   TIDE
 #text      deg      deg   yr mo day hr mn degT  m/s   m/s   m   sec sec degT   hPa   hPa  degC  degC  degC  nmi     ft
 13001    12.000  -23.000 2024 09 14 05 00  38   4.0   4.9   MM  MM   MM  MM 1011.4    MM  27.5  28.0    MM   MM     MM
-13009     8.000  -38.000 2024 09 14 03 00  92   3.2    MM   MM  MM   MM  MM     MM    MM  28.0  29.0    MM   MM     MM
 15002     0.000  -10.000 2024 09 14 04 00 148   5.6    MM   MM  MM   MM  MM     MM    MM  23.8  23.9    MM   MM     MM
 15009     0.000   -3.051 2024 09 14 04 00 168   7.2    MM   MM  MM   MM  MM     MM    MM  24.4  25.0    MM   MM     MM
 1801593  37.37  -122.89  2024 09 14 04 30 326   6.5   7.6  2.0   8   MM  MM 1010.6    MM  14.2  14.7  13.3   MM     MM
@@ -20,9 +19,6 @@
 23014     2.000   67.000 2024 09 14 05 00 345   1.3    MM   MM  MM   MM  MM     MM    MM  30.0  30.6    MM   MM     MM
 23015     0.000   67.000 2024 09 14 05 00  11   1.6    MM   MM  MM   MM  MM     MM    MM  29.8  30.5    MM   MM     MM
 23016    -2.000   67.000 2024 09 14 05 00  53   3.1    MM   MM  MM   MM  MM     MM    MM  29.8  30.0    MM   MM     MM
-31001     0.000  -35.000 2024 09 14 03 00 131   6.6    MM   MM  MM   MM  MM     MM    MM  26.8  27.2    MM   MM     MM
-31002     4.000  -38.000 2024 09 14 03 00  MM    MM    MM   MM  MM   MM  MM     MM    MM  28.2  28.7    MM   MM     MM
-31005   -19.000  -34.000 2024 09 14 03 00  41   7.5    MM   MM  MM   MM  MM 1020.4    MM  24.4  25.2    MM   MM     MM
 32ST0   -22.000  -85.000 2024 09 14 04 30 130   9.0    MM   MM  MM   MM  MM 1023.5    MM  16.3  17.9  11.7   MM     MM
 41001    34.703  -72.242 2024 09 14 05 30  70   7.0   9.0   MM  MM   MM  MM 1016.4    MM  26.1  26.9  23.9   MM     MM
 41002    31.759  -74.936 2024 09 14 05 30 110   7.0   8.0   MM  MM   MM  MM 1010.0    MM  26.2  28.9  24.9   MM     MM
@@ -43,8 +39,8 @@
 41047    27.465  -71.452 2024 09 14 05 30 200   5.0   6.0   MM  MM   MM  MM 1012.6    MM  29.2  30.0  26.4   MM     MM
 41049    27.505  -62.271 2024 09 14 05 30 130   4.0   5.0   MM  MM   MM  MM 1014.9    MM  28.0  29.5  24.7   MM     MM
 41052    18.249  -64.763 2024 09 14 05 30 130   7.0   8.0   MM  MM   MM  MM 1011.2    MM  29.8    MM    MM   MM     MM
-41053    18.474  -66.099 2024 09 14 05 00 180   3.0   4.0  0.8   7   MM  56 1011.5  -1.1  28.4  30.2    MM   MM     MM
-41056    18.261  -65.464 2024 09 14 05 00 130   6.0   7.0  0.8   5   MM  70 1011.2  -0.8  29.5  30.0    MM   MM     MM
+41053    18.474  -66.099 2024 09 14 05 30 190   3.0   4.0   MM  MM   MM  MM 1011.1    MM  28.0    MM    MM   MM     MM
+41056    18.261  -65.464 2024 09 14 05 30 130   6.0   8.0   MM  MM   MM  MM 1011.0    MM  29.5    MM    MM   MM     MM
 41065    32.802  -79.619 2024 09 14 05 20  MM    MM    MM  1.0   6  4.1  94     MM    MM    MM  25.2    MM   MM     MM
 41066    32.536  -79.656 2024 09 14 05 08  70   9.0  12.0   MM  MM   MM  MM 1011.9    MM  25.4  25.9  24.2   MM     MM
 41067    32.276  -80.406 2024 09 14 05 20  MM    MM    MM  1.0   5  4.7 102     MM    MM    MM  25.3    MM   MM     MM
@@ -53,7 +49,7 @@
 41076    32.536  -79.659 2024 09 14 05 10  MM    MM    MM  1.4   6  4.7  63     MM    MM    MM    MM    MM   MM     MM
 41082    35.950  -75.125 2024 09 14 04 00  60   5.0    MM   MM  MM   MM  MM 1010.4  +0.0  23.7    MM    MM   MM     MM
 41083    35.725  -74.853 2024 09 14 03 20  80   9.0    MM  1.8   6   MM 106 1018.3    MM  27.5    MM    MM   MM     MM
-41108    33.721  -78.016 2024 09 14 05 00  MM    MM    MM  1.4   7  4.4 119     MM    MM  26.1  25.6    MM   MM     MM
+41108    33.721  -78.016 2024 09 14 05 30  MM    MM    MM  1.6   7  4.7 111     MM    MM  23.8  25.6    MM   MM     MM
 41110    34.142  -77.715 2024 09 14 05 26  MM    MM    MM  1.8   7  5.0  93     MM    MM    MM  25.3    MM   MM     MM
 41112    30.709  -81.292 2024 09 14 05 30  MM    MM    MM  1.3   6  4.5  61     MM    MM  26.2  26.9    MM   MM     MM
 41113    28.400  -80.533 2024 09 14 05 26  MM    MM    MM  0.5   8  5.4  75     MM    MM    MM  29.3    MM   MM     MM
@@ -79,7 +75,7 @@
 42057    16.973  -81.575 2024 09 14 05 30  MM    MM    MM   MM  MM   MM  MM 1010.4    MM    MM  30.4    MM   MM     MM
 42058    14.512  -75.153 2024 09 14 05 30  90   5.0   6.0   MM  MM   MM  MM 1010.1    MM  29.9  30.2  27.1   MM     MM
 42060    16.434  -63.329 2024 09 14 05 30 110   3.0   4.0   MM  MM   MM  MM 1012.3    MM  29.6  30.1  26.7   MM     MM
-42085    17.870  -66.537 2024 09 14 05 00 360   1.0   2.0  0.7   5   MM 124 1011.8  -0.8  28.6  30.2    MM   MM     MM
+42085    17.870  -66.537 2024 09 14 05 30 180   3.0   4.0   MM  MM   MM  MM 1011.6    MM  28.5    MM    MM   MM     MM
 42091    29.088  -92.505 2024 09 14 05 26  MM    MM    MM  0.3   5  3.8 141     MM    MM    MM  28.2    MM   MM     MM
 42092    27.640  -97.012 2024 09 14 05 30  MM    MM    MM  0.7   4  3.0 166     MM    MM    MM  28.2    MM   MM     MM
 42095    24.409  -81.968 2024 09 14 05 00  MM    MM    MM  0.5   7  4.8 253     MM    MM  30.1  31.6    MM   MM     MM
@@ -107,9 +103,9 @@
 44063    38.963  -76.448 2024 09 14 05 30  50   1.0   2.0   MM  MM   MM  MM     MM    MM  20.2  24.1    MM   MM     MM
 44064    36.998  -76.087 2024 09 14 05 30  50   8.0   9.0  0.7   7   MM  MM     MM    MM  21.5    MM    MM   MM     MM
 44072    37.201  -76.266 2024 09 14 05 30  40   5.0   6.0   MM  MM   MM  MM     MM    MM  21.9  24.0    MM   MM     MM
-44078    59.940  -39.520 2024 09 14 03 30 360   4.0    MM   MM  MM   MM  33 1005.4    MM   8.3   8.6    MM   MM     MM
+44078    59.940  -39.520 2024 09 14 03 30 360   4.0    MM  2.8  MM   MM  33 1005.4    MM   8.3   8.6    MM   MM     MM
 44079    36.175  -74.827 2024 09 14 04 00  70   5.0    MM   MM  MM   MM  MM 1019.1  +0.3  24.1    MM    MM   MM     MM
-44084    38.537  -75.044 2024 09 14 04 30  MM    MM    MM  1.0   7   MM  MM     MM    MM    MM  22.1    MM   MM     MM
+44084    38.537  -75.044 2024 09 14 05 30  MM    MM    MM  1.0   7  4.7 112     MM    MM    MM  22.1    MM   MM     MM
 44085    41.387  -71.032 2024 09 14 05 30  MM    MM    MM  0.6   7  5.5 168     MM    MM  19.3  19.1    MM   MM     MM
 44086    36.001  -75.421 2024 09 14 05 26  MM    MM    MM  1.5   7  5.2 107     MM    MM    MM  22.6    MM   MM     MM
 44087    37.026  -76.149 2024 09 14 05 26  MM    MM    MM  0.8   7  3.6 121     MM    MM    MM  23.6    MM   MM     MM
@@ -266,7 +262,7 @@
 46239    36.335 -122.104 2024 09 14 05 30  MM    MM    MM  2.2   9  7.2 299     MM    MM  13.1  13.2    MM   MM     MM
 46240    36.626 -121.907 2024 09 14 05 26  MM    MM    MM  0.9   9  7.4 341     MM    MM    MM  14.6    MM   MM     MM
 46243    46.214 -124.126 2024 09 14 05 26  MM    MM    MM  0.8   8  6.7 281     MM    MM    MM  17.0    MM   MM     MM
-46244    40.896 -124.357 2024 09 14 04 30  MM    MM    MM  2.1   8  6.4 326     MM    MM  14.1  13.9    MM   MM     MM
+46244    40.896 -124.357 2024 09 14 05 30  MM    MM    MM  2.2   8  6.5 315     MM    MM  13.6  13.9    MM   MM     MM
 46246    50.042 -145.170 2024 09 14 04 56  MM    MM    MM  2.5  10  6.7 284     MM    MM    MM  13.8    MM   MM     MM
 46248    46.133 -124.640 2024 09 14 05 26  MM    MM    MM  0.9   8  6.4 285     MM    MM    MM  15.9    MM   MM     MM
 46251    33.769 -119.565 2024 09 14 05 26  MM    MM    MM  0.8  17  6.1 175     MM    MM  15.8  19.0    MM   MM     MM
@@ -311,8 +307,8 @@
 52202    13.683  144.816 2024 09 14 05 26  MM    MM    MM  1.9  11  6.6 231     MM    MM    MM  29.9    MM   MM     MM
 52211    15.268  145.662 2024 09 14 05 30  MM    MM    MM  2.1  11  7.9 223     MM    MM  25.8  30.2    MM   MM     MM
 52212     7.630  134.671 2024 09 14 05 30  MM    MM    MM  0.8  10  4.6  90     MM    MM  29.9  29.9    MM   MM     MM
-52213     7.081  158.244 2024 09 14 05 00  MM    MM    MM  1.3   8  6.5 258     MM    MM  30.1  30.4    MM   MM     MM
-52215     5.241  163.001 2024 09 14 05 00  MM    MM    MM  1.3   8   MM  MM     MM    MM  29.9  31.2    MM   MM     MM
+52213     7.081  158.244 2024 09 14 05 30  MM    MM    MM  1.2   8  6.4 263     MM    MM  30.1  30.4    MM   MM     MM
+52215     5.241  163.001 2024 09 14 05 30  MM    MM    MM  1.3   9  7.5 138     MM    MM  29.7  31.2    MM   MM     MM
 62050    50.000   -4.400 2024 09 14 05 00 180   3.6    MM   MM  MM   MM  MM 1030.9    MM  14.4    MM   7.0   MM     MM
 62081    51.000  -13.550 2024 09 14 05 00 220  13.4    MM   MM  MM   MM  MM 1021.7    MM  16.2  15.6  15.8   MM     MM
 62105    55.410  -11.810 2024 09 14 05 00 210  17.5    MM   MM  MM   MM  MM 1009.2    MM  15.0  13.7  14.2   MM     MM
@@ -370,8 +366,8 @@ AWRT2    28.227  -96.796 2024 09 14 05 18 170   4.1   5.7   MM  MM   MM  MM 1010
 BABT2    27.297  -97.405 2024 09 14 05 18 110   4.6   6.2   MM  MM   MM  MM 1011.2    MM  28.2  31.1    MM   MM     MM
 BATN6    40.701  -74.014 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1021.9    MM  20.6  21.9    MM   MM     MM
 BAXC1    33.766 -118.240 2024 09 14 05 06 310   2.1   2.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
-BBNF1    25.601  -80.306 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  32.3    MM   MM     MM
-BBSF1    25.472  -80.349 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.9    MM   MM     MM
+BBNF1    25.601  -80.306 2024 09 14 04 30  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  32.2    MM   MM     MM
+BBSF1    25.472  -80.349 2024 09 14 04 30  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.8    MM   MM     MM
 BDRN4    40.082  -74.870 2024 09 14 04 36  10   0.5   0.5   MM  MM   MM  MM 1023.2    MM  18.3  22.8    MM   MM     MM
 BDSP1    39.980  -75.079 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1023.6    MM  19.5  23.4    MM   MM     MM
 BDVF1    25.478  -80.989 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.8    MM   MM   0.62
@@ -379,7 +375,7 @@ BEXA2    60.791 -161.749 2024 09 14 05 43 180   3.1   4.1   MM  MM   MM  MM     
 BFTN7    34.717  -76.671 2024 09 14 05 18  50   3.1   5.7   MM  MM   MM  MM 1015.7    MM  23.3  23.7    MM   MM     MM
 BGXN3    43.059  -70.830 2024 09 14 04 45  MM   0.0    MM   MM  MM   MM  MM 1024.0    MM  14.0    MM  13.5   MM     MM
 BHBM3    42.355  -71.050 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1023.0    MM  20.5    MM    MM   MM     MM
-BHRI3    41.646  -87.147 2024 09 14 04 40 110   4.6   5.1   MM  MM   MM  MM 1019.3    MM  22.8    MM    MM   MM     MM
+BHRI3    41.646  -87.147 2024 09 14 05 30 100   3.6   5.1   MM  MM   MM  MM 1019.3    MM  22.1    MM    MM   MM     MM
 BIGM4    46.827  -87.727 2024 09 14 05 40 220   1.0   1.0   MM  MM   MM  MM 1020.3    MM  14.9    MM    MM   MM     MM
 BISM2    38.220  -76.039 2024 09 14 05 18  50   4.6   5.7   MM  MM   MM  MM 1022.5    MM  21.0  24.7    MM   MM     MM
 BKBF1    30.192  -81.692 2024 09 14 05 18  80   2.1   3.1   MM  MM   MM  MM 1012.2    MM  26.0    MM    MM   MM     MM
@@ -396,7 +392,7 @@ BRHC3    41.174  -73.181 2024 09 14 05 18  60   1.5   1.5   MM  MM   MM  MM 1021
 BRND1    38.987  -75.113 2024 09 14 05 18  50   3.1   3.6   MM  MM   MM  MM 1023.1    MM  21.1    MM    MM   MM     MM
 BSBM4    44.055  -86.514 2024 09 14 05 40 100   3.6   4.6   MM  MM   MM  MM 1022.7    MM  20.1    MM    MM   MM     MM
 BSCA1    30.329  -87.829 2024 09 14 03 30  MM   4.1    MM   MM  MM   MM  MM 1011.7    MM  27.6    MM    MM   MM     MM
-BSKF1    25.266  -81.162 2024 09 14 03 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  33.6    MM   MM   0.93
+BSKF1    25.266  -81.162 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  33.4    MM   MM   1.05
 BSLM2    38.781  -76.708 2024 09 14 05 30 350   0.5    MM   MM  MM   MM  MM 1023.0    MM  17.5    MM  17.3   MM     MM
 BUFN6    42.878  -78.890 2024 09 14 05 18  80   3.6   5.1   MM  MM   MM  MM 1023.2    MM  19.7  21.2  16.0   MM     MM
 BURL1    28.906  -89.429 2024 09 14 05 00 280   4.6   4.6   MM  MM   MM  MM 1012.5  +0.4  27.7    MM  24.1   MM     MM
@@ -450,7 +446,7 @@ CRVA2    60.558 -145.752 2024 09 14 05 18 180   1.0   1.5   MM  MM   MM  MM 1007
 CRYV2    36.888  -76.338 2024 09 14 05 18  50   5.1   6.2   MM  MM   MM  MM 1020.3    MM  23.2    MM    MM   MM     MM
 CSPA2    58.199 -136.640 2024 09 14 05 10  80   2.1   2.1   MM  MM   MM  MM 1007.0    MM  10.4    MM  10.4   MM     MM
 CSXA2    58.199 -136.641 2024 09 14 05 43 100   3.1   4.1   MM  MM   MM  MM 1003.5    MM    MM    MM    MM   MM     MM
-CWAF1    25.297  -81.013 2024 09 14 03 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  32.1    MM   MM   0.22
+CWAF1    25.297  -81.013 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.9    MM   MM   0.31
 CWBF1    27.978  -82.832 2024 09 14 05 18  70   3.1   4.1   MM  MM   MM  MM 1012.5    MM  26.1  30.9    MM   MM     MM
 CWCI     47.334  -85.833 2024 09 14 05 00 130   3.1    MM   MM  MM   MM  MM     MM    MM  16.6    MM  15.7   MM     MM
 CYGM4    45.658  -84.464 2024 09 14 04 50  MM   0.0   1.0   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
@@ -595,7 +591,7 @@ LMDF1    25.176  -80.633 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     
 LMFS1    34.107  -81.271 2024 09 14 03 20  10   1.0   3.1   MM  MM   MM  MM     MM    MM  22.1    MM    MM   MM     MM
 LMRF1    25.556  -81.169 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  32.7    MM   MM   1.00
 LNDC1    37.795 -122.281 2024 09 14 05 18  MM   0.0   1.0   MM  MM   MM  MM 1010.2    MM  14.3    MM    MM   MM     MM
-LONF1    24.844  -80.864 2024 09 14 05 30 140   2.6   3.6   MM  MM   MM  MM 1010.8    MM  30.4    MM  25.0   MM     MM
+LONF1    24.844  -80.864 2024 09 14 05 40 150   2.6   3.6   MM  MM   MM  MM 1010.9    MM  30.3    MM  25.0   MM     MM
 LOPL1    28.885  -90.025 2024 09 14 05 37 320   4.1   5.1  0.4  MM   MM  MM 1012.1    MM  27.3    MM  23.4   MM     MM
 LOPW1    46.106 -122.954 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1013.9    MM    MM  20.4    MM   MM     MM
 LORO1    41.481  -82.195 2024 09 14 05 30 130   3.1   4.1   MM  MM   MM  MM     MM    MM  21.3    MM    MM   MM     MM
@@ -631,10 +627,10 @@ MHBT2    27.828  -97.201 2024 09 14 05 18 170   5.1   7.2   MM  MM   MM  MM 1010
 MHRN6    40.641  -74.162 2024 09 14 05 18 180   2.6   3.1   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 MISM1    43.784  -68.855 2024 09 14 05 00 290   4.6   5.1   MM  MM   MM  MM 1023.2  +0.0  16.6    MM    MM   MM     MM
 MISP4    18.090  -67.939 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1013.5    MM  26.7  30.2    MM   MM     MM
-MIST2    27.838  -97.050 2024 09 14 04 45  MM   5.7    MM   MM  MM   MM  MM     MM    MM  28.3    MM  26.4   MM     MM
+MIST2    27.838  -97.050 2024 09 14 05 15  MM   5.7    MM   MM  MM   MM  MM     MM    MM  28.3    MM  26.2   MM     MM
 MIXA2    57.837 -133.814 2024 09 14 05 43 120   4.1   5.7   MM  MM   MM  MM 1004.9    MM  10.6    MM    MM   MM     MM
 MKGM4    43.228  -86.339 2024 09 14 05 40  80   3.1   4.1   MM  MM   MM  MM 1020.1    MM  20.5    MM  16.7   MM     MM
-MLSC1    36.802 -121.791 2024 09 14 05 30  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  13.0    MM   MM     MM
+MLSC1    36.802 -121.791 2024 09 14 05 30 230   2.1    MM   MM  MM   MM  MM 1011.2    MM  12.3    MM  12.0   MM     MM
 MLWW3    43.005  -87.884 2024 09 14 05 40 150   5.7   6.7   MM  MM   MM  MM     MM    MM  23.0    MM    MM   MM     MM
 MNBF1    25.239  -80.422 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  33.9    MM   MM   0.42
 MNMM4    45.096  -87.590 2024 09 14 05 18  20   2.1   2.1   MM  MM   MM  MM 1020.0    MM  18.7  17.6  18.7   MM     MM
@@ -652,7 +648,7 @@ MVXA2    58.364 -134.606 2024 09 14 05 42  60   0.5   1.0   MM  MM   MM  MM     
 MXXA2    58.301 -134.425 2024 09 14 05 42 360   1.0   1.0   MM  MM   MM  MM     MM    MM  10.6    MM  10.4   MM     MM
 MYPF1    30.398  -81.428 2024 09 14 05 18  60   5.1   5.7   MM  MM   MM  MM 1012.9    MM  26.5  27.1    MM   MM     MM
 MZXC1    38.035 -122.125 2024 09 14 05 18 300   4.1   5.1   MM  MM   MM  MM 1009.2    MM  19.6  20.9    MM  5.9     MM
-NABM4    46.087  -85.444 2024 09 14 04 40 100   4.1   5.1   MM  MM   MM  MM 1022.4    MM  19.4    MM    MM   MM     MM
+NABM4    46.087  -85.444 2024 09 14 05 40 110   4.1   5.7   MM  MM   MM  MM 1022.4    MM  19.2    MM    MM   MM     MM
 NAXR1    41.637  -71.339 2024 09 14 04 45 300   1.0    MM   MM  MM   MM  MM 1024.0    MM  17.4    MM  16.9   MM     MM
 NBGM3    41.624  -70.906 2024 09 14 05 18 230   1.0   1.5   MM  MM   MM  MM 1023.7    MM  18.2    MM    MM   MM     MM
 NBLP1    40.137  -74.752 2024 09 14 05 18 120   1.0   1.0   MM  MM   MM  MM 1024.0    MM  18.4  22.0    MM   MM     MM
@@ -694,7 +690,7 @@ OOUH1    21.303 -157.865 2024 09 14 05 18 100   1.0   4.6   MM  MM   MM  MM 1014
 OPTF1    27.858  -82.553 2024 09 14 05 18  70   1.5   2.6   MM  MM   MM  MM 1012.4    MM  26.1    MM    MM   MM     MM
 ORIN7    35.796  -75.548 2024 09 14 05 18  60   4.6   6.7   MM  MM   MM  MM 1019.4    MM  23.0  24.2    MM   MM     MM
 OSGN6    43.464  -76.511 2024 09 14 05 18 170   1.5   2.1   MM  MM   MM  MM 1022.9    MM  18.3    MM  16.4   MM     MM
-OTNM4    46.870  -89.330 2024 09 14 05 30  MM   0.0   0.0   MM  MM   MM  MM 1020.3    MM  18.0    MM    MM   MM     MM
+OTNM4    46.870  -89.330 2024 09 14 05 50 150   0.5   1.0   MM  MM   MM  MM 1020.3    MM  17.1    MM    MM   MM     MM
 OVIA2    59.440 -151.720 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1009.4    MM    MM  11.2    MM   MM     MM
 OWMO1    41.247  -82.454 2024 09 14 05 00 120   0.5    MM   MM  MM   MM  MM     MM    MM  16.3    MM  14.5   MM     MM
 OWXO1    41.378  -82.508 2024 09 14 04 45  80   0.5    MM   MM  MM   MM  MM 1021.0    MM  18.6    MM  14.2   MM     MM
@@ -780,7 +776,7 @@ RPRN6    43.263  -77.598 2024 09 14 05 00  MM   0.0   0.0   MM  MM   MM  MM 1025
 RSJT2    26.801  -97.471 2024 09 14 05 18 150   7.7   8.8   MM  MM   MM  MM 1011.0    MM  28.8  31.9    MM   MM     MM
 RTAT2    27.840  -97.072 2024 09 14 05 18 140   3.1   6.2   MM  MM   MM  MM 1011.2    MM  28.2  28.9    MM   MM     MM
 RTYC1    37.507 -122.212 2024 09 14 05 18 330   2.1   3.6   MM  MM   MM  MM 1010.3    MM  16.3  22.7    MM   MM     MM
-SANF1    24.456  -81.877 2024 09 14 05 30 120   2.6   3.6   MM  MM   MM  MM 1012.0    MM  29.9    MM  25.0   MM     MM
+SANF1    24.456  -81.877 2024 09 14 05 40 120   2.6   3.6   MM  MM   MM  MM 1012.1    MM  29.9    MM  25.0   MM     MM
 SAPF1    27.761  -82.627 2024 09 14 05 18 100   3.6   4.6   MM  MM   MM  MM 1012.7    MM  27.4  31.0    MM   MM     MM
 SAUF1    29.857  -81.264 2024 09 14 05 00  MM   3.6   4.1   MM  MM   MM  MM 1011.9  -1.3  26.9    MM    MM   MM     MM
 SAXG1    31.418  -81.296 2024 09 14 05 00  50   2.6    MM   MM  MM   MM  MM 1012.0  -1.0  24.7    MM  24.7   MM     MM
@@ -801,7 +797,7 @@ SHBL1    29.868  -89.673 2024 09 14 05 18 180   2.1   2.6   MM  MM   MM  MM 1012
 SHPF1    30.058  -84.291 2024 09 14 03 54 110   4.1   6.7   MM  MM   MM  MM 1011.6    MM  25.8    MM  23.8   MM   3.74
 SHXA2    57.055 -135.349 2024 09 14 05 42  30   1.5   2.6   MM  MM   MM  MM     MM    MM  11.5    MM  10.4   MM     MM
 SISA2    58.177 -135.259 2024 09 14 05 22 130   0.5   2.6   MM  MM   MM  MM     MM    MM  10.5    MM   9.2   MM     MM
-SISW1    48.321 -122.831 2024 09 14 05 30 120   5.7   7.2   MM  MM   MM  MM 1014.5    MM  13.4    MM  12.5   MM     MM
+SISW1    48.321 -122.831 2024 09 14 05 40  70   2.6   3.6   MM  MM   MM  MM 1014.7    MM  12.9    MM  12.5   MM     MM
 SJNP4    18.459  -66.116 2024 09 14 05 18 260   2.6   2.6   MM  MM   MM  MM 1013.0    MM  27.7  30.5    MM   MM     MM
 SJOM4    42.098  -86.494 2024 09 14 05 00  MM   0.0   3.1   MM  MM   MM  MM 1020.7  +0.7  20.7    MM    MM   MM     MM
 SKTA2    59.450 -135.327 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1007.1    MM  10.9   9.5    MM   MM     MM
@@ -811,7 +807,7 @@ SLVM5    47.278  -91.270 2024 09 14 05 40  30   0.5   5.7   MM  MM   MM  MM 1020
 SLXA2    55.340 -131.644 2024 09 14 05 42  70   1.0   2.6   MM  MM   MM  MM 1005.9    MM  12.1    MM  10.2   MM     MM
 SNDA2    55.336 -160.502 2024 09 14 05 18 160   3.6   5.1   MM  MM   MM  MM 1013.7    MM  10.4  10.7    MM   MM     MM
 SNDP5    28.215 -177.361 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1018.3    MM  26.9  27.8    MM   MM     MM
-SNTO3    43.279 -124.318 2024 09 14 04 45  80   1.0    MM   MM  MM   MM  MM 1015.0    MM  13.2    MM  12.4   MM     MM
+SNTO3    43.279 -124.318 2024 09 14 05 30  70   1.0    MM   MM  MM   MM  MM 1015.0    MM  13.2    MM  12.6   MM     MM
 SPGF1    26.704  -78.995 2024 09 14 05 00 160   1.5   1.5   MM  MM   MM  MM 1012.1  -1.2  29.1    MM    MM   MM     MM
 SPTM4    44.713  -83.273 2024 09 14 04 50  MM   0.0   1.5   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 SPXA2    55.599 -132.203 2024 09 14 05 43 150   1.0   2.6   MM  MM   MM  MM 1006.9    MM  12.5    MM    MM   MM     MM
@@ -826,7 +822,7 @@ SWLA2    60.120 -149.427 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1006
 SWPM4    46.501  -84.372 2024 09 14 05 18  90   2.1   2.6   MM  MM   MM  MM 1023.3    MM  17.6  18.9    MM   MM     MM
 SWPV2    36.943  -76.329 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1020.0    MM  23.2  23.9    MM   MM     MM
 SWXA2    60.116 -149.434 2024 09 14 05 44 310   2.1   3.6   MM  MM   MM  MM     MM    MM  13.0    MM   8.5   MM     MM
-SXHW3    46.563  -90.437 2024 09 14 04 40 170   1.5   1.5   MM  MM   MM  MM 1019.6    MM  15.0    MM    MM   MM     MM
+SXHW3    46.563  -90.437 2024 09 14 05 40 170   1.0   1.5   MM  MM   MM  MM 1019.6    MM  14.5    MM    MM   MM     MM
 SXXA2    55.315 -131.596 2024 09 14 05 43  10   0.5   1.0   MM  MM   MM  MM     MM    MM  12.0    MM   9.9   MM     MM
 TAQT2    27.815  -97.389 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1010.4    MM  28.4  29.7    MM   MM     MM
 TBIM4    45.035  -83.194 2024 09 14 05 30  90   3.6   3.6   MM  MM   MM  MM     MM    MM  19.2    MM    MM   MM     MM
@@ -835,7 +831,7 @@ TCBM2    39.213  -76.244 2024 09 14 05 18  50   0.5   2.1   MM  MM   MM  MM 1023
 TCMW1    47.276 -122.418 2024 09 14 05 18 300   2.1   2.6   MM  MM   MM  MM     MM    MM  14.6    MM    MM   MM     MM
 TCNW1    47.267 -122.413 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1014.9    MM    MM    MM    MM   MM     MM
 TCVF1    25.213  -80.533 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  32.5    MM   MM   0.37
-TDPC1    41.055 -124.147 2024 09 14 05 15  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  11.8    MM   MM     MM
+TDPC1    41.055 -124.147 2024 09 14 05 30  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  11.8    MM   MM     MM
 TESL1    29.668  -91.237 2024 09 14 05 18 180   1.0   1.5   MM  MM   MM  MM 1012.7    MM  24.8  27.6    MM   MM     MM
 THLO1    41.826  -83.194 2024 09 14 05 00  70   5.1   6.2   MM  MM   MM  MM 1020.7  +0.0  21.9    MM  19.7   MM     MM
 THRF1    25.203  -80.372 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  32.7    MM   MM   0.30
@@ -884,7 +880,7 @@ WPOW1    47.662 -122.435 2024 09 14 05 00  MM   0.0   0.0   MM  MM   MM  MM 1014
 WPTW1    46.904 -124.105 2024 09 14 04 36 100   0.5   1.0   MM  MM   MM  MM 1014.2    MM  14.5  15.1    MM   MM     MM
 WRBF1    25.072  -80.735 2024 09 14 04 00  MM   1.5    MM   MM  MM   MM  MM     MM    MM    MM  32.6    MM   MM   0.10
 WRXA2    70.636 -160.034 2024 09 14 05 43  60   2.6   4.1   MM  MM   MM  MM     MM    MM   4.6    MM   3.2   MM     MM
-WWEF1    25.232  -80.938 2024 09 14 03 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.7    MM   MM  -0.02
+WWEF1    25.232  -80.938 2024 09 14 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  31.6    MM   MM   0.12
 WYCM6    30.326  -89.326 2024 09 14 05 18 290   0.5   0.5   MM  MM   MM  MM 1010.8    MM  26.2  26.1    MM   MM     MM
 YATA2    59.548 -139.733 2024 09 14 05 18  MM    MM    MM   MM  MM   MM  MM 1007.1    MM    MM  12.0    MM   MM     MM
 YGNN6    43.262  -79.064 2024 09 14 05 00  50   0.5   1.0   MM  MM   MM  MM 1023.7  +0.0  19.0    MM    MM   MM     MM
