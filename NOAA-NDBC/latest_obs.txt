@@ -529,7 +529,7 @@ IOSN3    42.967  -70.623 2024 09 28 05 00  10   2.6   3.1   MM  MM   MM  MM 1017
 IRDT2    27.480  -97.322 2024 09 28 05 12 190   3.6   4.1   MM  MM   MM  MM 1010.8    MM  27.3  29.6    MM   MM     MM
 ITKA2    57.052 -135.342 2024 09 28 05 18  MM    MM    MM   MM  MM   MM  MM 1015.1    MM   8.6  12.3    MM   MM     MM
 JBYF1    25.224  -80.541 2024 09 28 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.0    MM   MM   1.34
-JCRN4    39.535  -74.464 2024 09 28 04 45  30   4.6    MM   MM  MM   MM  MM 1014.0    MM    MM    MM    MM   MM     MM
+JCRN4    39.535  -74.464 2024 09 28 05 30  60   5.1    MM   MM  MM   MM  MM 1014.0    MM    MM    MM    MM   MM     MM
 JKYF1    25.053  -80.904 2024 09 28 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.3    MM   MM   0.62
 JLXA2    58.298 -134.405 2024 09 28 05 42  MM   0.0   0.5   MM  MM   MM  MM     MM    MM   8.0    MM   7.6   MM     MM
 JMLA2    58.286 -134.390 2024 09 28 05 42 130   1.0   2.1   MM  MM   MM  MM     MM    MM   8.1    MM   7.8   MM     MM
@@ -871,4 +871,4 @@ WYCM6    30.326  -89.326 2024 09 28 05 18 240   3.1   4.1   MM  MM   MM  MM 1007
 YATA2    59.548 -139.733 2024 09 28 05 18  MM    MM    MM   MM  MM   MM  MM 1013.2    MM    MM  11.7    MM   MM     MM
 YGNN6    43.262  -79.064 2024 09 28 05 00  70   1.5   5.1   MM  MM   MM  MM 1013.9  +0.0  19.1    MM    MM   MM     MM
 YKTV2    37.227  -76.479 2024 09 28 05 18 190   2.6   4.6   MM  MM   MM  MM 1008.8    MM  24.9  23.7    MM   MM     MM
-YRSV2    37.414  -76.712 2024 09 28 04 30  MM   0.0    MM   MM  MM   MM  MM 1009.0    MM  24.0    MM  23.7   MM     MM
+YRSV2    37.414  -76.712 2024 09 28 04 45  MM   0.0    MM   MM  MM   MM  MM 1009.0    MM  23.8    MM  23.5   MM     MM
