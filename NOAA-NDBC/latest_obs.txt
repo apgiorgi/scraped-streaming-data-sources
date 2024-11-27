@@ -337,6 +337,7 @@ BRHC3    41.174  -73.181 2024 11 27 05 18 270   1.0   2.6   MM  MM   MM  MM 1013
 BRND1    38.987  -75.113 2024 11 27 05 18 340   5.1   6.2   MM  MM   MM  MM 1017.8    MM    MM    MM    MM   MM     MM
 BSBM4    44.055  -86.514 2024 11 27 05 40 290   5.1   8.8   MM  MM   MM  MM 1017.6    MM   0.4    MM    MM   MM     MM
 BSCA1    30.329  -87.829 2024 11 27 03 30  MM   1.0    MM   MM  MM   MM  MM 1018.8    MM  16.6    MM    MM   MM     MM
+BSKF1    25.266  -81.162 2024 11 27 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.5    MM   MM   1.02
 BSLM2    38.781  -76.708 2024 11 27 05 30  MM   0.0    MM   MM  MM   MM  MM 1018.0    MM   2.8    MM   1.8   MM     MM
 BUFN6    42.878  -78.890 2024 11 27 05 18 270   9.8  11.8   MM  MM   MM  MM 1013.2    MM    MM  10.2    MM   MM     MM
 BURL1    28.906  -89.429 2024 11 27 05 00  30   3.6   3.6   MM  MM   MM  MM 1019.1  -0.4  19.7    MM  19.2   MM     MM
