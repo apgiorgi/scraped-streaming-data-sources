@@ -790,6 +790,7 @@ WNEM4    46.285  -84.210 2024 12 16 17 18 140   5.1   7.7   MM  MM   MM  MM 1008
 WPLF1    25.710  -81.249 2024 12 16 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  21.1    MM   MM  -1.41
 WPOW1    47.662 -122.435 2024 12 16 17 00 150   5.1   6.2   MM  MM   MM  MM 1012.9  +1.0   6.7    MM   6.7   MM     MM
 WPTW1    46.904 -124.105 2024 12 16 16 36 130   4.6   7.2   MM  MM   MM  MM 1010.3    MM   7.5   9.9    MM   MM     MM
+WRBF1    25.072  -80.735 2024 12 16 17 00  MM   7.7    MM   MM  MM   MM  MM     MM    MM    MM  23.6    MM   MM  -0.65
 WRXA2    70.636 -160.034 2024 12 16 17 42  50   5.1   8.8   MM  MM   MM  MM     MM    MM -20.8    MM -22.5   MM     MM
 WWEF1    25.232  -80.938 2024 12 16 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  21.6    MM   MM  -0.71
 WYCM6    30.326  -89.326 2024 12 16 17 18 100   3.1   4.6   MM  MM   MM  MM 1023.6    MM  22.3  16.6    MM   MM     MM
