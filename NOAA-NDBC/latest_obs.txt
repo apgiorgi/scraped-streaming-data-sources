@@ -580,7 +580,7 @@ NMXA2    64.494 -165.440 2024 12 24 17 42  10   8.2   8.8   MM  MM   MM  MM     
 NPDW3    45.291  -86.977 2024 12 24 17 00 310   1.5   3.1   MM  MM   MM  MM     MM    MM  -1.6    MM    MM   MM     MM
 NPXN6    41.831  -73.942 2024 12 24 17 30  MM   0.0    MM   MM  MM   MM  MM 1024.0    MM  -0.6    MM  -5.6   MM     MM
 NREP1    42.258  -79.792 2024 12 24 16 30 360   3.1   4.1   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
-NRRF1    25.338  -80.911 2024 12 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  19.6    MM   MM  -0.82
+NRRF1    25.338  -80.911 2024 12 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  19.7    MM   MM  -0.74
 NSTP6   -14.280 -170.688 2024 12 24 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.5    MM   MM     MM
 NSXA2    60.740 -151.311 2024 12 24 17 42 300   1.5   2.6   MM  MM   MM  MM     MM    MM   0.9    MM  -1.2   MM     MM
 NTBC1    34.405 -119.692 2024 12 24 16 36  40   2.1   2.6   MM  MM   MM  MM 1019.3    MM  12.3    MM    MM   MM     MM
@@ -722,7 +722,7 @@ SNTO3    43.279 -124.318 2024 12 24 17 30  MM   0.0    MM   MM  MM   MM  MM 1016
 SPGF1    26.704  -78.995 2024 12 24 17 00  20   5.7   6.2   MM  MM   MM  MM 1022.7  -1.0  21.5    MM    MM   MM     MM
 SPTM4    44.713  -83.273 2024 12 24 16 50 350   5.1   8.2   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 SPXA2    55.599 -132.203 2024 12 24 17 42  MM   0.0   0.5   MM  MM   MM  MM  985.3    MM   5.9    MM    MM   MM     MM
-SREF1    25.352  -81.100 2024 12 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  20.7    MM   MM  -0.79
+SREF1    25.352  -81.100 2024 12 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  20.7    MM   MM  -1.19
 SRLM4    45.773  -84.137 2024 12 24 17 00 360   4.1    MM   MM  MM   MM  MM     MM    MM  -4.0    MM  -5.5   MM     MM
 SRXA2    58.383 -134.652 2024 12 24 17 42  MM   0.0   1.0   MM  MM   MM  MM  985.2    MM   2.3    MM   1.9   MM     MM
 STXA2    57.116 -135.391 2024 12 24 17 42 100   1.0   1.5   MM  MM   MM  MM     MM    MM   5.2    MM   4.3   MM     MM
