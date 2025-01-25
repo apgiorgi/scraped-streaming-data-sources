@@ -302,7 +302,7 @@ BIGM4    46.827  -87.727 2025 01 25 17 40 230   2.6   9.3   MM  MM   MM  MM 1004
 BISM2    38.220  -76.039 2025 01 25 17 18 180   1.5   2.1   MM  MM   MM  MM 1030.4    MM  -0.7   0.0    MM   MM     MM
 BKBF1    30.192  -81.692 2025 01 25 17 18  20   2.1   4.1   MM  MM   MM  MM 1032.6    MM  10.4    MM    MM   MM     MM
 BKTL1    30.190  -93.301 2025 01 25 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  12.2    MM   MM     MM
-BKYF1    25.119  -80.834 2025 01 25 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  12.8    MM   MM  -1.35
+BKYF1    25.119  -80.834 2025 01 25 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  14.1    MM   MM  -1.37
 BLIA2    60.839 -146.884 2025 01 25 17 30  30   4.1   5.1   MM  MM   MM  MM 1028.2    MM    MM    MM    MM   MM     MM
 BLIF1    30.393  -81.523 2025 01 25 17 18  20   3.1   4.1   MM  MM   MM  MM 1033.1    MM  11.1    MM    MM  5.9     MM
 BLTM2    39.267  -76.579 2025 01 25 17 18 200   1.5   4.6   MM  MM   MM  MM     MM    MM   1.1   1.2    MM   MM     MM
@@ -448,7 +448,7 @@ HLNM4    42.773  -86.213 2025 01 25 17 18 190   7.2   9.8   MM  MM   MM  MM 1016
 HMRA2    59.601 -151.410 2025 01 25 17 30 200   8.8    MM   MM  MM   MM  MM 1016.0    MM    MM    MM    MM   MM     MM
 HMSA2    59.602 -151.417 2025 01 25 17 42 140  10.8  15.4   MM  MM   MM  MM     MM    MM   7.8    MM   1.8   MM     MM
 HRBM4    43.846  -82.643 2025 01 25 17 18 200   4.6   7.2   MM  MM   MM  MM 1014.9    MM  -3.1   2.0  -7.9   MM     MM
-HREF1    25.424  -81.060 2025 01 25 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  16.5    MM   MM  -1.42
+HREF1    25.424  -81.060 2025 01 25 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  16.8    MM   MM  -1.05
 HRRH1    21.431 -157.815 2025 01 25 17 30  60   1.0    MM   MM  MM   MM  MM 1016.0    MM  22.2    MM  20.2   MM     MM
 ICAC1    34.008 -118.500 2025 01 25 17 18  MM    MM    MM   MM  MM   MM  MM 1012.5    MM  13.0  13.5    MM   MM     MM
 ILOH1    19.730 -155.056 2025 01 25 17 18 200   1.0   1.5   MM  MM   MM  MM 1016.4    MM  19.9  26.1    MM   MM     MM
