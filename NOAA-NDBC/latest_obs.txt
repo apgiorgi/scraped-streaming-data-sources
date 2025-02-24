@@ -447,7 +447,7 @@ HLNM4    42.773  -86.213 2025 02 24 17 18 190   6.2   8.8   MM  MM   MM  MM 1003
 HMRA2    59.601 -151.410 2025 02 24 17 30 190   1.0    MM   MM  MM   MM  MM  992.0    MM    MM    MM    MM   MM     MM
 HMSA2    59.602 -151.417 2025 02 24 17 42 160   1.0   1.5   MM  MM   MM  MM     MM    MM   1.5    MM  -0.7   MM     MM
 HRBM4    43.846  -82.643 2025 02 24 17 18 250  11.8  18.0   MM  MM   MM  MM  998.5    MM   7.6   2.1  -0.7   MM     MM
-HREF1    25.424  -81.060 2025 02 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.7    MM   MM  -0.32
+HREF1    25.424  -81.060 2025 02 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.6    MM   MM  -0.36
 HRRH1    21.431 -157.815 2025 02 24 17 30  MM   0.0    MM   MM  MM   MM  MM 1019.0    MM  21.0    MM  20.5   MM     MM
 ICAC1    34.008 -118.500 2025 02 24 17 18  MM    MM    MM   MM  MM   MM  MM 1021.3    MM  14.8  14.3    MM   MM     MM
 ILOH1    19.730 -155.056 2025 02 24 17 18 210   1.0   3.1   MM  MM   MM  MM 1020.5    MM  21.5  25.3    MM   MM     MM
@@ -584,7 +584,7 @@ NMXA2    64.494 -165.440 2025 02 24 17 42 330   1.5   2.1   MM  MM   MM  MM     
 NPDW3    45.291  -86.977 2025 02 24 17 00 160   4.6  10.3   MM  MM   MM  MM  995.9  +0.3   9.7    MM    MM   MM     MM
 NPXN6    41.831  -73.942 2025 02 24 17 30 160   4.6    MM   MM  MM   MM  MM 1017.0    MM   5.9    MM  -4.8   MM     MM
 NREP1    42.258  -79.792 2025 02 24 16 30 210   8.8  13.9   MM  MM   MM  MM     MM    MM   8.2    MM    MM   MM     MM
-NRRF1    25.338  -80.911 2025 02 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  21.9    MM   MM  -1.19
+NRRF1    25.338  -80.911 2025 02 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.1    MM   MM  -1.13
 NSTP6   -14.280 -170.688 2025 02 24 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.6    MM   MM     MM
 NSXA2    60.740 -151.311 2025 02 24 17 42  60   2.6   4.6   MM  MM   MM  MM     MM    MM  -0.3    MM  -4.4   MM     MM
 NTBC1    34.405 -119.692 2025 02 24 16 36 100   1.0   1.5   MM  MM   MM  MM     MM    MM  14.3    MM    MM   MM     MM
@@ -726,7 +726,7 @@ SNTO3    43.279 -124.318 2025 02 24 17 30 210   4.6    MM   MM  MM   MM  MM 1009
 SPGF1    26.704  -78.995 2025 02 24 17 00 100   5.7   7.2   MM  MM   MM  MM 1017.0  -1.8  20.7    MM    MM   MM     MM
 SPTM4    44.713  -83.273 2025 02 24 16 50 230   4.1  10.8   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 SPXA2    55.599 -132.203 2025 02 24 17 42 100   8.2  14.4   MM  MM   MM  MM  994.2    MM   7.2    MM    MM   MM     MM
-SREF1    25.352  -81.100 2025 02 24 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  21.9    MM   MM  -0.19
+SREF1    25.352  -81.100 2025 02 24 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  21.9    MM   MM  -0.64
 SRLM4    45.773  -84.137 2025 02 24 17 00 230  13.4    MM   MM  MM   MM  MM     MM    MM   4.9    MM   0.0   MM     MM
 SRXA2    58.383 -134.652 2025 02 24 17 42  80   0.5    MM   MM  MM   MM  MM  996.6    MM   3.1    MM   2.7   MM     MM
 SSBN7    33.838  -78.484 2025 02 24 17 00  MM    MM    MM  0.3   8  5.0 166     MM    MM    MM    MM    MM   MM     MM
