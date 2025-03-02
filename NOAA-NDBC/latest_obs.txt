@@ -743,7 +743,7 @@ TBYF1    25.155  -80.722 2025 03 02 17 00  MM    MM    MM   MM  MM   MM  MM     
 TCBM2    39.213  -76.244 2025 03 02 17 18 320   4.6   6.7   MM  MM   MM  MM 1022.9    MM  -1.9    MM    MM   MM     MM
 TCMW1    47.276 -122.418 2025 03 02 17 18 330   3.6   4.1   MM  MM   MM  MM     MM    MM   8.6    MM    MM   MM     MM
 TCNW1    47.267 -122.413 2025 03 02 17 18  MM    MM    MM   MM  MM   MM  MM 1013.8    MM    MM   8.9    MM   MM     MM
-TCVF1    25.213  -80.533 2025 03 02 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.5    MM   MM  -0.27
+TCVF1    25.213  -80.533 2025 03 02 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  22.8    MM   MM  -0.19
 TESL1    29.668  -91.237 2025 03 02 17 18  40   5.1   7.2   MM  MM   MM  MM 1023.2    MM  16.6   8.8    MM   MM     MM
 TGXA2    59.055 -160.334 2025 03 02 17 42 130  10.8  12.9   MM  MM   MM  MM  987.3    MM   2.3    MM   2.2   MM     MM
 THLO1    41.826  -83.194 2025 03 02 17 00 210   3.1   4.1   MM  MM   MM  MM 1024.1  +0.0  -5.5    MM -12.4   MM     MM
@@ -757,7 +757,7 @@ TOKW1    46.707 -123.967 2025 03 02 17 18 180   1.5   2.1   MM  MM   MM  MM 1013
 TPEF1    25.410  -80.964 2025 03 02 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  23.7    MM   MM  -0.24
 TPLM2    38.899  -76.436 2025 03 02 17 00 300   3.6   4.6   MM  MM   MM  MM 1024.0  -0.8  -2.1    MM    MM   MM     MM
 TRDF1    28.416  -80.593 2025 03 02 17 18  10   6.2   7.7   MM  MM   MM  MM 1016.3    MM  19.7  23.2    MM   MM     MM
-TRRF1    25.217  -80.650 2025 03 02 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.2    MM   MM  -0.37
+TRRF1    25.217  -80.650 2025 03 02 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.4    MM   MM  -0.37
 TSHF1    27.929  -82.426 2025 03 02 17 06 280   1.0   1.5   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 TWCO1    41.699  -83.259 2025 03 02 17 39  MM    MM    MM   MM  MM   MM  MM     MM    MM  -3.8    MM -10.6   MM     MM
 TXPT2    29.689  -93.842 2025 03 02 17 18 110   7.2   8.8   MM  MM   MM  MM 1019.6    MM  15.4  16.0    MM   MM     MM
