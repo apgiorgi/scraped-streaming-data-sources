@@ -800,7 +800,7 @@ WIXA2    60.777 -148.682 2025 05 01 17 42  40   0.5   0.5   MM  MM   MM  MM  997
 WKXA1    30.421  -87.828 2025 05 01 16 45 170   1.0    MM   MM  MM   MM  MM 1020.0    MM  26.3    MM  20.8   MM     MM
 WLON7    34.228  -77.954 2025 05 01 17 18  MM    MM    MM   MM  MM   MM  MM 1018.8    MM  27.3  23.0    MM   MM     MM
 WNEM4    46.285  -84.210 2025 05 01 17 18 100   3.1   5.1   MM  MM   MM  MM 1011.0    MM   4.7   4.8    MM   MM     MM
-WPLF1    25.710  -81.249 2025 05 01 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.5    MM   MM  -0.64
+WPLF1    25.710  -81.249 2025 05 01 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.7    MM   MM  -0.27
 WPOW1    47.662 -122.435 2025 05 01 17 00  30   2.1   2.6   MM  MM   MM  MM 1018.4  -0.9  10.0    MM   9.0   MM     MM
 WPTW1    46.904 -124.105 2025 05 01 16 36  70   7.7   9.8   MM  MM   MM  MM 1017.1    MM  11.4  11.8    MM   MM     MM
 WRBF1    25.072  -80.735 2025 05 01 17 00  MM   4.6    MM   MM  MM   MM  MM     MM    MM    MM  25.4    MM   MM  -0.74
