@@ -12,8 +12,6 @@
 22108    36.25   125.75  2025 05 06 17 00 290   4.0    MM  0.5   4   MM  MM     MM    MM   9.4  10.8    MM   MM     MM
 23001     0.000   81.000 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM 1009.7    MM  28.4    MM    MM   MM     MM
 23003    -2.000   81.000 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM  29.0  30.4    MM   MM     MM
-23007     8.000   90.000 2025 05 06 15 00 187   2.7    MM   MM  MM   MM  MM     MM    MM  28.7  30.2    MM   MM     MM
-23009    15.000   90.000 2025 05 06 15 00 306   2.2    MM   MM  MM   MM  MM 1007.7    MM  30.5  31.0    MM   MM     MM
 23012     8.000   67.000 2025 05 06 17 00 325   3.9    MM   MM  MM   MM  MM     MM    MM  30.3    MM    MM   MM     MM
 23014     2.000   67.000 2025 05 06 17 00 253   3.8    MM   MM  MM   MM  MM     MM    MM  29.9    MM    MM   MM     MM
 23016    -2.000   67.000 2025 05 06 16 00 240   4.8    MM   MM  MM   MM  MM     MM    MM  29.2  30.6    MM   MM     MM
@@ -321,7 +319,7 @@ BIGM4    46.827  -87.727 2025 05 06 17 40  10   0.5   1.5   MM  MM   MM  MM 1012
 BISM2    38.220  -76.039 2025 05 06 17 18 210   8.8  10.3   MM  MM   MM  MM 1015.8    MM  21.9  21.9    MM   MM     MM
 BKBF1    30.192  -81.692 2025 05 06 17 18 150   1.5   2.1   MM  MM   MM  MM 1018.2    MM  27.7    MM    MM   MM     MM
 BKTL1    30.190  -93.301 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  27.3    MM   MM     MM
-BKYF1    25.119  -80.834 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.5    MM   MM  -0.30
+BKYF1    25.119  -80.834 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.9    MM   MM  -0.29
 BLIA2    60.839 -146.884 2025 05 06 17 30  10   3.6   3.6   MM  MM   MM  MM 1008.7    MM   6.8    MM    MM   MM     MM
 BLIF1    30.393  -81.523 2025 05 06 17 18 250   2.6   4.1   MM  MM   MM  MM 1018.8    MM  28.6    MM    MM  5.9     MM
 BLTM2    39.267  -76.579 2025 05 06 17 18 210   1.5   3.6   MM  MM   MM  MM     MM    MM  22.1  20.4    MM   MM     MM
@@ -333,7 +331,7 @@ BRHC3    41.174  -73.181 2025 05 06 17 18  80   4.1   6.2   MM  MM   MM  MM 1016
 BRND1    38.987  -75.113 2025 05 06 17 18 170   9.3  11.3   MM  MM   MM  MM 1015.7    MM  15.6    MM    MM   MM     MM
 BSBM4    44.055  -86.514 2025 05 06 17 40  20   4.6   5.7   MM  MM   MM  MM 1015.9    MM   9.2    MM    MM   MM     MM
 BSCA1    30.329  -87.829 2025 05 06 16 00 110   8.2    MM   MM  MM   MM  MM 1017.8  +0.9  24.1    MM    MM   MM     MM
-BSKF1    25.266  -81.162 2025 05 06 15 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  28.6    MM   MM   0.57
+BSKF1    25.266  -81.162 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.6    MM   MM   0.17
 BSLM2    38.781  -76.708 2025 05 06 17 30 210   4.6    MM   MM  MM   MM  MM 1014.0    MM  20.2    MM  13.8   MM     MM
 BUFN6    42.878  -78.890 2025 05 06 17 18 270   1.0   1.5   MM  MM   MM  MM 1013.5    MM  15.8  11.4   9.7   MM     MM
 BURL1    28.906  -89.429 2025 05 06 17 00 100   8.2   8.8   MM  MM   MM  MM 1015.9  +0.5  25.4    MM  24.8   MM     MM
@@ -469,7 +467,7 @@ HLNM4    42.773  -86.213 2025 05 06 17 18 250   3.1   3.6   MM  MM   MM  MM 1013
 HMRA2    59.601 -151.410 2025 05 06 17 30 130   1.0    MM   MM  MM   MM  MM 1004.0    MM    MM    MM    MM   MM     MM
 HMSA2    59.602 -151.417 2025 05 06 17 42 100   1.5   4.1   MM  MM   MM  MM     MM    MM   7.5    MM   2.4   MM     MM
 HRBM4    43.846  -82.643 2025 05 06 17 18 150   4.6   5.7   MM  MM   MM  MM 1011.8    MM   9.6  11.2   9.6   MM     MM
-HREF1    25.424  -81.060 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  27.1    MM   MM   0.36
+HREF1    25.424  -81.060 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  27.3    MM   MM   0.10
 HRRH1    21.431 -157.815 2025 05 06 17 30  80   2.1    MM   MM  MM   MM  MM 1019.0    MM  24.3    MM  20.3   MM     MM
 ICAC1    34.008 -118.500 2025 05 06 17 18 250   2.6   3.1   MM  MM   MM  MM 1014.9    MM  15.4  16.5    MM   MM     MM
 ILOH1    19.730 -155.056 2025 05 06 17 18  MM   0.0   1.5   MM  MM   MM  MM 1018.6    MM  22.6  26.1    MM   MM     MM
@@ -533,7 +531,7 @@ LOPW1    46.106 -122.954 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM 1018
 LORO1    41.481  -82.195 2025 05 06 17 30 210   6.7   7.7   MM  MM   MM  MM     MM    MM  13.7    MM    MM   MM     MM
 LPNM4    45.063  -83.429 2025 05 06 17 18  40   2.1   3.6   MM  MM   MM  MM 1012.2    MM  13.0   9.5  12.5   MM     MM
 LQAT2    27.881  -97.285 2025 05 06 17 18 170   8.2   9.8   MM  MM   MM  MM 1006.1    MM  26.7  26.8  26.7  5.9     MM
-LRIF1    25.284  -80.894 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.5    MM   MM  -0.39
+LRIF1    25.284  -80.894 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.5    MM   MM  -0.36
 LRKF1    24.982  -80.826 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.0    MM   MM  -0.50
 LSNF1    25.235  -80.457 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.2    MM   MM  -0.36
 LTBV3    17.695  -64.754 2025 05 06 17 18 100   4.1   7.2   MM  MM   MM  MM 1013.2    MM  28.0  28.6    MM   MM     MM
@@ -552,7 +550,7 @@ MBXC1    35.371 -120.859 2025 05 06 17 10  MM    MM    MM   MM  MM   MM  MM     
 MCGA1    30.649  -88.058 2025 05 06 17 18 120   4.6   6.2   MM  MM   MM  MM 1017.8    MM  23.8  24.9    MM   MM     MM
 MCGM4    46.546  -87.379 2025 05 06 17 18 180   1.0   1.5   MM  MM   MM  MM 1013.2    MM  13.3    MM   0.4   MM     MM
 MCYI3    41.729  -86.912 2025 05 06 17 30 230   4.6   5.1   MM  MM   MM  MM 1015.6    MM  13.1    MM  13.1   MM     MM
-MDKF1    25.289  -80.396 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.2    MM   MM  -0.56
+MDKF1    25.289  -80.396 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.8    MM   MM  -0.63
 MDRM1    43.969  -68.128 2025 05 06 17 00 110   9.8  10.3   MM  MM   MM  MM 1025.9  -1.2   7.7    MM   7.7   MM     MM
 MDXA2    59.438 -146.327 2025 05 06 17 42 100   8.8   9.8   MM  MM   MM  MM  997.6    MM   6.1    MM   4.1   MM     MM
 MEEM4    44.251  -86.342 2025 05 06 17 40  10   3.1   3.6   MM  MM   MM  MM     MM    MM   8.9    MM    MM   MM     MM
@@ -569,7 +567,7 @@ MIXA2    57.837 -133.814 2025 05 06 17 42 320   3.6    MM   MM  MM   MM  MM 1010
 MKGM4    43.228  -86.339 2025 05 06 17 40 330   8.2   8.8   MM  MM   MM  MM 1014.2    MM   7.9    MM   7.1   MM     MM
 MLSC1    36.802 -121.791 2025 05 06 17 37 290   2.6    MM   MM  MM   MM  MM 1014.1    MM  13.2    MM  11.0   MM     MM
 MLWW3    43.005  -87.884 2025 05 06 17 40 150   3.6   4.1   MM  MM   MM  MM     MM    MM  14.1    MM    MM   MM     MM
-MNBF1    25.239  -80.422 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  28.9    MM   MM  -0.47
+MNBF1    25.239  -80.422 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.2    MM   MM  -0.56
 MNMM4    45.096  -87.590 2025 05 06 17 18 140   2.1   2.6   MM  MM   MM  MM 1013.5    MM  12.4   9.8   8.5   MM     MM
 MNPV2    36.778  -76.302 2025 05 06 17 18 260   6.7   9.3   MM  MM   MM  MM 1017.5    MM  23.6  22.1    MM   MM     MM
 MOKH1    21.433 -157.790 2025 05 06 16 36 100   3.1   6.7   MM  MM   MM  MM 1018.6    MM  23.7  26.6    MM   MM     MM
@@ -607,7 +605,7 @@ NMXA2    64.494 -165.440 2025 05 06 17 42  90   2.6    MM   MM  MM   MM  MM     
 NPDW3    45.291  -86.977 2025 05 06 17 00  80   2.1   2.6   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 NPXN6    41.831  -73.942 2025 05 06 17 30  MM   0.0    MM   MM  MM   MM  MM 1017.0    MM  18.6    MM  17.5   MM     MM
 NREP1    42.258  -79.792 2025 05 06 16 30 170   6.2   9.8   MM  MM   MM  MM     MM    MM  18.3    MM    MM   MM     MM
-NRRF1    25.338  -80.911 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  27.9    MM   MM  -0.44
+NRRF1    25.338  -80.911 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  28.5    MM   MM  -0.36
 NSTP6   -14.280 -170.688 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  28.7    MM   MM     MM
 NSXA2    60.740 -151.311 2025 05 06 17 42  50   3.6   6.2   MM  MM   MM  MM     MM    MM   8.5    MM   2.3   MM     MM
 NTBC1    34.405 -119.692 2025 05 06 16 36 190   1.5   1.5   MM  MM   MM  MM 1015.1    MM  15.0    MM    MM   MM     MM
@@ -621,7 +619,6 @@ OBGN6    44.702  -75.494 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM 1014
 OBLA1    30.705  -88.040 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM 1018.7    MM  24.0  24.5    MM   MM     MM
 OBXC1    37.804 -122.341 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM     MM    MM  14.3    MM  12.4   MM     MM
 OCIM2    38.328  -75.091 2025 05 06 17 18 190   3.1   5.1   MM  MM   MM  MM 1016.1    MM  17.9  17.6    MM   MM     MM
-OKSI2    41.912  -87.624 2025 05 06 15 00  10   1.0   2.6   MM  MM   MM  MM     MM    MM  19.3    MM    MM   MM     MM
 OKXC1    37.811 -122.333 2025 05 06 17 18 310   4.6   5.7   MM  MM   MM  MM 1013.4    MM  13.5    MM    MM   MM     MM
 OLCN6    43.341  -78.719 2025 05 06 17 00  30   2.6   3.6   MM  MM   MM  MM 1015.6    MM    MM    MM    MM   MM     MM
 OLSA2    52.940 -168.870 2025 05 06 17 18 300  10.8  12.9   MM  MM   MM  MM 1019.2    MM   2.9    MM    MM   MM     MM
@@ -745,7 +742,7 @@ SNDP5    28.215 -177.361 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM 1017
 SNTO3    43.279 -124.318 2025 05 06 17 30  10   2.1    MM   MM  MM   MM  MM 1017.0    MM  18.7    MM   8.8   MM     MM
 SPGF1    26.704  -78.995 2025 05 06 17 00 180   4.6   7.7   MM  MM   MM  MM 1018.7  +0.0  27.0    MM    MM   MM     MM
 SPTM4    44.713  -83.273 2025 05 06 16 50 340   2.1   6.2   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
-SREF1    25.352  -81.100 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  27.8    MM   MM   0.37
+SREF1    25.352  -81.100 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  27.9    MM   MM  -0.16
 SRLM4    45.773  -84.137 2025 05 06 17 00 220   2.1    MM   MM  MM   MM  MM     MM    MM   9.8    MM   6.7   MM     MM
 SRXA2    58.383 -134.652 2025 05 06 17 42  80   3.1   5.1   MM  MM   MM  MM 1012.1    MM   6.6    MM   3.0   MM     MM
 SSBN7    33.838  -78.484 2025 05 06 17 10  MM    MM    MM  0.6   6  5.3 174     MM    MM    MM  23.8    MM   MM     MM
@@ -758,7 +755,7 @@ SXXA2    55.315 -131.596 2025 05 06 17 42 160   1.5   2.1   MM  MM   MM  MM     
 TAQT2    27.815  -97.389 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM 1005.4    MM  27.5  25.9    MM   MM     MM
 TAWM4    44.254  -83.449 2025 05 06 17 40  90   5.1   6.7   MM  MM   MM  MM 1013.2    MM  10.1    MM    MM   MM     MM
 TBIM4    45.035  -83.194 2025 05 06 17 00  10   3.6   4.6   MM  MM   MM  MM     MM    MM   7.4    MM    MM   MM     MM
-TBYF1    25.155  -80.722 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.1    MM   MM  -0.28
+TBYF1    25.155  -80.722 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.7    MM   MM  -0.32
 TCBM2    39.213  -76.244 2025 05 06 17 18 190   5.1   7.7   MM  MM   MM  MM 1014.1    MM  22.4  20.2    MM   MM     MM
 TCMW1    47.276 -122.418 2025 05 06 17 18 290   2.6   3.1   MM  MM   MM  MM     MM    MM  11.2    MM    MM   MM     MM
 TCNW1    47.267 -122.413 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM 1019.5    MM    MM  10.0    MM   MM     MM
@@ -767,7 +764,7 @@ TDPC1    41.055 -124.147 2025 05 06 17 30  MM    MM    MM   MM  MM   MM  MM     
 TESL1    29.668  -91.237 2025 05 06 17 18 130   6.2   7.7   MM  MM   MM  MM 1012.5    MM  26.5  22.7    MM   MM     MM
 TGXA2    59.055 -160.334 2025 05 06 17 42  10   1.5   3.1   MM  MM   MM  MM 1003.4    MM   6.2    MM   2.8   MM     MM
 THLO1    41.826  -83.194 2025 05 06 17 00 220   3.1   3.6   MM  MM   MM  MM 1011.4  +0.0  13.1    MM  13.1   MM     MM
-THRF1    25.203  -80.372 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  28.2    MM   MM  -0.61
+THRF1    25.203  -80.372 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  28.5    MM   MM  -0.70
 THRO1    41.694  -83.473 2025 05 06 17 18 280   3.6   5.1   MM  MM   MM  MM 1010.4    MM  14.0    MM  12.2   MM     MM
 TIBC1    37.892 -122.447 2025 05 06 16 14 160   5.7    MM   MM  MM   MM  MM 1012.7    MM  15.1    MM  10.5   MM     MM
 TIXC1    32.575 -117.127 2025 05 06 16 45 260   1.5    MM   MM  MM   MM  MM 1016.0    MM  16.5    MM  11.9   MM     MM
@@ -806,7 +803,7 @@ WEXM1    43.337  -70.549 2025 05 06 17 00  20   2.6    MM   MM  MM   MM  MM     
 WFPM4    46.760  -84.970 2025 05 06 17 40 320   2.1   5.7   MM  MM   MM  MM     MM    MM  17.8    MM    MM   MM     MM
 WGXA2    56.467 -132.382 2025 05 06 17 42 290   1.0   2.1   MM  MM   MM  MM 1011.1    MM   6.4    MM   5.7   MM     MM
 WHRI2    42.361  -87.813 2025 05 06 17 00 270   3.1   5.1   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
-WIWF1    25.587  -81.044 2025 05 06 16 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  26.7    MM   MM  -0.37
+WIWF1    25.587  -81.044 2025 05 06 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  27.7    MM   MM  -0.24
 WIXA2    60.777 -148.682 2025 05 06 17 42  20   1.5   3.1   MM  MM   MM  MM 1007.1    MM   3.7    MM    MM   MM     MM
 WKXA1    30.421  -87.828 2025 05 06 16 45  90   1.5    MM   MM  MM   MM  MM 1019.0    MM  25.6    MM  19.9   MM     MM
 WLON7    34.228  -77.954 2025 05 06 17 18  MM    MM    MM   MM  MM   MM  MM 1017.8    MM  28.6  24.3    MM   MM     MM
