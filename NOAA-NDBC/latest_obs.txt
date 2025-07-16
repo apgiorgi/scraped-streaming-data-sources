@@ -372,7 +372,7 @@ BATN6    40.701  -74.014 2025 07 16 05 30  MM    MM    MM   MM  MM   MM  MM 1015
 BAXC1    33.766 -118.240 2025 07 16 05 30 330   2.6   3.1   MM  MM   MM  MM     MM    MM    MM    MM    MM   MM     MM
 BBNF1    25.601  -80.306 2025 07 16 04 30  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.2    MM   MM     MM
 BBSF1    25.472  -80.349 2025 07 16 04 30  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  29.9    MM   MM     MM
-BDRN4    40.082  -74.870 2025 07 16 04 54 190   1.5   2.1   MM  MM   MM  MM 1017.1    MM  25.8  28.6    MM   MM     MM
+BDRN4    40.082  -74.870 2025 07 16 05 36 220   1.5   2.1   MM  MM   MM  MM 1017.2    MM  25.5  28.6    MM   MM     MM
 BDSP1    39.980  -75.079 2025 07 16 05 30  MM    MM    MM   MM  MM   MM  MM 1017.7    MM  26.1  28.3    MM   MM     MM
 BDVF1    25.478  -80.989 2025 07 16 04 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  30.3    MM   MM   0.05
 BDXC1    38.317 -123.071 2025 07 16 04 53  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  14.6    MM   MM     MM
