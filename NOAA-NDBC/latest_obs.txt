@@ -828,7 +828,7 @@ SREF1    25.352  -81.100 2025 09 07 07 00  MM    MM    MM   MM  MM   MM  MM     
 SRLM4    45.773  -84.137 2025 09 07 07 00 210   5.1    MM   MM  MM   MM  MM     MM    MM  11.6    MM   7.5   MM     MM
 SRXA2    58.383 -134.652 2025 09 07 08 02 350   2.1   2.6   MM  MM   MM  MM 1015.4    MM  13.9    MM   9.9   MM     MM
 SSBN7    33.838  -78.484 2025 09 07 07 12  MM    MM    MM  0.4   6  5.0 145     MM    MM    MM  26.9    MM   MM     MM
-STDM4    47.184  -87.225 2025 09 07 07 50 280   5.1   6.2   MM  MM   MM  MM 1016.2    MM  10.0    MM   7.0   MM     MM
+STDM4    47.184  -87.225 2025 09 07 08 00 280   4.6   5.1   MM  MM   MM  MM 1016.2  +0.4  10.1    MM   6.9   MM     MM
 STXA2    57.116 -135.391 2025 09 07 08 02  MM   0.0   0.5   MM  MM   MM  MM     MM    MM  14.7    MM  11.8   MM     MM
 SVNM4    42.401  -86.288 2025 09 07 08 00 120   3.1   3.6   MM  MM   MM  MM     MM    MM  12.9    MM    MM   MM     MM
 SWPM4    46.501  -84.372 2025 09 07 07 30 230   3.6   4.6   MM  MM   MM  MM 1014.1    MM   9.9  17.1    MM   MM     MM
