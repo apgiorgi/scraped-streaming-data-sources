@@ -853,3 +853,4 @@ WWEF1    25.232  -80.938 2025 10 26 13 00  MM    MM    MM   MM  MM   MM  MM     
 WYCM6    30.326  -89.326 2025 10 26 14 18 180   6.2   9.3   MM  MM   MM  MM 1014.7    MM    MM  22.3    MM   MM     MM
 YATA2    59.548 -139.733 2025 10 26 14 18  MM    MM    MM   MM  MM   MM  MM 1001.1    MM    MM  10.8    MM   MM     MM
 YKTV2    37.227  -76.479 2025 10 26 14 18 360   4.1   4.6   MM  MM   MM  MM 1029.2    MM    MM  17.0    MM   MM     MM
+YRSV2    37.414  -76.712 2025 10 26 14 30 320   0.5    MM   MM  MM   MM  MM 1030.0    MM  12.7    MM   7.2   MM     MM
