@@ -473,7 +473,6 @@ KBQX     28.314  -95.620 2025 12 14 16 35  40  16.0  19.6   MM  MM   MM  MM     
 KECA2    55.331 -131.625 2025 12 14 16 18 120   8.2  12.4   MM  MM   MM  MM  985.8    MM    MM   7.0    MM   MM     MM
 KEXA2    55.352 -131.684 2025 12 14 16 32 140   8.8  15.4   MM  MM   MM  MM     MM    MM   8.2    MM    MM   MM     MM
 KGCA2    55.062 -162.327 2025 12 14 16 18 350   8.2  21.6   MM  MM   MM  MM 1008.9    MM    MM    MM    MM   MM     MM
-KGHB     27.840  -91.988 2025 12 14 13 55  MM     0    MM   MM  MM   MM  MM     MM    MM    25    MM    20  8.7     MM
 KGNA     47.745  -90.346 2025 12 14 15 56  MM     0    MM   MM  MM   MM  MM 1036.1    MM -13.3    MM -17.2   MM     MM
 KGRY     27.625  -90.441 2025 12 14 16 35 350   6.7   9.3   MM  MM   MM  MM     MM    MM    24    MM    15  8.7     MM
 KGUL     27.304  -93.538 2025 12 14 16 35  30   4.1   7.2   MM  MM   MM  MM     MM    MM    21    MM    20  1.7     MM
