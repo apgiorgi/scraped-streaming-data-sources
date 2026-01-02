@@ -785,3 +785,5 @@ WRXA2    70.636 -160.034 2026 01 02 18 42  MM    MM    MM   MM  MM   MM  MM     
 WWEF1    25.232  -80.938 2026 01 02 17 00  MM    MM    MM   MM  MM   MM  MM     MM    MM    MM  17.4    MM   MM  -0.94
 WYCM6    30.326  -89.326 2026 01 02 18 18 170   4.1   6.2   MM  MM   MM  MM 1011.5    MM    MM  13.1    MM   MM     MM
 YATA2    59.548 -139.733 2026 01 02 18 18  MM    MM    MM   MM  MM   MM  MM 1006.2    MM    MM   4.2    MM   MM     MM
+YKTV2    37.227  -76.479 2026 01 02 18 18  70   4.6   5.1   MM  MM   MM  MM 1007.1    MM    MM   6.1    MM   MM     MM
+YRSV2    37.414  -76.712 2026 01 02 18 30  MM   0.0    MM   MM  MM   MM  MM 1008.0    MM   7.8    MM  -0.9   MM     MM
